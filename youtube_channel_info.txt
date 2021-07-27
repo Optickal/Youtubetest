@@ -1,17 +1,20 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 636
+Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 001
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-News7 Tamil | Tamil | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 673
+News7 Tamil | Tamil | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 002
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 830
+Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 003
 https://www.youtube.com/c/ThanthitvNews/live
 
-New18 TamilNadu | Tamil | http://7starcloud.in/NB.png | ts58
+New18 TamilNadu | Tamil | http://7starcloud.in/NB.png | 004
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
+Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 005
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
+
+Sun News | Tamil | https://e7.pngegg.com/pngimages/25/365/png-clipart-udaya-tv-sun-tv-network-television-channel-udaya-news-others-television-text-thumbnail.png | 006
+https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
