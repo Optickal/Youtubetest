@@ -1,9 +1,9 @@
 
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
 
-`https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u`
+`https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u`
 
 Updated m3u links of YouTube live channels, **auto-updated every hour**.
 
@@ -18,7 +18,7 @@ Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/mai
 
 ### Run the tool on your local machine
 ``` bash
-git clone https://github.com/benmoose39/YouTube_to_m3u.git
+git clone https://github.com/naveenland4/YouTube_to_m3u.git
 cd YouTube_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
