@@ -1,156 +1,157 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 001
+~~ DO NOT EDIT THE FIRST 2 LINES	
+	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+	
+Polimer News | YouTube Live | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 001
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-News7 Tamil | Tamil | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 002
+News7 Tamil | YouTube Live | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 002
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 003
+Thanthi TV | YouTube Live | http://www.thanthitv.com/Images/TTV-800x800.png | 003
 https://www.youtube.com/c/ThanthitvNews/live
 
-New18 TamilNadu | Tamil | http://7starcloud.in/NB.png | 004
+New18 TamilNadu | YouTube Live | http://7starcloud.in/NB.png | 004
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Puthiya Thalaimurai | Tamil | https://yt3.ggpht.com/ytc/AKedOLQ9Nmh3FoESMMTM-P3w9-QMtxJ6o-uEYy4z1QvQAms=s100-c-k-c0x00ffffff-no-rj | 005
+Puthiya Thalaimurai | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLQ9Nmh3FoESMMTM-P3w9-QMtxJ6o-uEYy4z1QvQAms=s100-c-k-c0x00ffffff-no-rj | 005
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 
-Sun News | Tamil | https://e7.pngegg.com/pngimages/25/365/png-clipart-udaya-tv-sun-tv-network-television-channel-udaya-news-others-television-text-thumbnail.png | 006
+Sun News | YouTube Live | https://e7.pngegg.com/pngimages/25/365/png-clipart-udaya-tv-sun-tv-network-television-channel-udaya-news-others-television-text-thumbnail.png | 006
 https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
 
-NewsJ | Tamil | https://i.extraimages.net/images/2021/04/05/logo_login.png | 007
+NewsJ | YouTube Live | https://i.extraimages.net/images/2021/04/05/logo_login.png | 007
 https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
 
-Sathiyamtv | Tamil | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png | 008
+Sathiyamtv | YouTube Live | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SathiyamFinallogo.png/220px-SathiyamFinallogo.png | 008
 https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 
-Dinamalar (தினமலர் செய்திகள்) | Tamil | https://i.imgur.com/9KOtLWa.jpg | 009
+Dinamalar (தினமலர் செய்திகள்) | YouTube Live | https://i.imgur.com/9KOtLWa.jpg | 009
 https://www.youtube.com/channel/UChcR8SrIiSON4KxmtpwfMgw/live
 
-Jaya Plus | Tamil | https://i.imgur.com/SJBIGOb.png | 010
+Jaya Plus | YouTube Live | https://i.imgur.com/SJBIGOb.png | 010
 https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw/live
 
-MalaiMurasu | Tamil | https://i.imgur.com/91ze3P7.png | 011
+MalaiMurasu | YouTube Live | https://i.imgur.com/91ze3P7.png | 011
 https://www.youtube.com/channel/UCXbufH95DIUqyAWSzeDI0JQ/live
 
-Kalaignar News | Tamil | https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg | 012
+Kalaignar News | YouTube Live | https://i.extraimages.net/images/2021/04/05/5zCwyOg7J4c6f4nVPZKTLFnP9vRlE44COxiWVFHncNnWs1N5TM8B-smWEu20EIFd8g.jpg | 012
 https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
 
-Raj News தமிழ் | Tamil | https://i.imgur.com/RuUvWva.jpg | 013
+Raj News தமிழ் | YouTube Live | https://i.imgur.com/RuUvWva.jpg | 013
 https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
 
-Captain News | Tamil | https://i.imgur.com/glL5zYr.png | 013
+Captain News | YouTube Live | https://i.imgur.com/glL5zYr.png | 013
 https://www.youtube.com/c/CaptainNews/live
 
-STV News 24/7 | Tamil | https://yt3.ggpht.com/ytc/AKedOLRTjHX8pqe5u-WhT0m1bR-FOX6r2Cg-An4_n2f5=s176-c-k-c0x00ffffff-no-rj | 
+STV News 24/7 | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLRTjHX8pqe5u-WhT0m1bR-FOX6r2Cg-An4_n2f5=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UClXRJRPICNPraGCLx04iALA/live
 
-Chanakyaa | Tamil | https://yt3.ggpht.com/ytc/AKedOLRBsih65iKKezVB9L8kM2LGEhZqx5osYwaIso7R=s176-c-k-c0x00ffffff-no-rj | 013
+Chanakyaa | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLRBsih65iKKezVB9L8kM2LGEhZqx5osYwaIso7R=s176-c-k-c0x00ffffff-no-rj | 013
 https://www.youtube.com/c/Chanakyaa/live
 
-CNN News18 | Tamil | https://i.extraimages.net/images/2021/04/05/CNN-News18.png | 014
+CNN News18 | YouTube Live | https://i.extraimages.net/images/2021/04/05/CNN-News18.png | 014
 https://www.youtube.com/channel/UCef1-8eOpJgud7szVPlZQAQ/live
 
-DD National | Tamil | https://yt3.ggpht.com/whfc-0Lc_HO0JVwGXzNq0LWzGlgg3OG_RT8M9iAWD-tEUDKOknuGxg3r-nocyUzgIBvONKe1Mg=s176-c-k-c0x00ffffff-no-rj | 016
+DD National | YouTube Live | https://yt3.ggpht.com/whfc-0Lc_HO0JVwGXzNq0LWzGlgg3OG_RT8M9iAWD-tEUDKOknuGxg3r-nocyUzgIBvONKe1Mg=s176-c-k-c0x00ffffff-no-rj | 016
 https://www.youtube.com/channel/UCSjPe5kinQtwcyHcFJyyMfw/live
 
 
-DD NEWS 24X7 | Tamil | https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png | 016
+DD NEWS 24X7 | YouTube Live | https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png | 016
 https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
 
-NDTV 24*7 | Tamil | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png | 017
+NDTV 24*7 | YouTube Live | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/1280px-NDTV_247.svg.png | 017
 https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
 
-IndiaTV | Tamil | https://i.imgur.com/3Y60xSh.jpg | 017
+IndiaTV | YouTube Live | https://i.imgur.com/3Y60xSh.jpg | 017
 https://www.youtube.com/channel/UCttspZesZIDEwwpVIgoZtWQ/live
 
-NewsX | Tamil | https://i.imgur.com/MkLUX70.png | 018
+NewsX | YouTube Live | https://i.imgur.com/MkLUX70.png | 018
 https://www.youtube.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig/live
 
-DW News | Tamil | https://i.imgur.com/mO7gA6S.png | 019
+DW News | YouTube Live | https://i.imgur.com/mO7gA6S.png | 019
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
-WION | Tamil | https://i.imgur.com/3PH7frA.jpg | 020
+WION | YouTube Live | https://i.imgur.com/3PH7frA.jpg | 020
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
-Franceinfo | Tamil | https://media.info/i/lf/300/1504210656/6883.png | 021
+Franceinfo | YouTube Live | https://media.info/i/lf/300/1504210656/6883.png | 021
 https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
 
-FRANCE 24 English | Tamil | https://i.imgur.com/1NHCrPM.png | 022
+FRANCE 24 English | YouTube Live | https://i.imgur.com/1NHCrPM.png | 022
 https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
 
-FRANCE 24 French | Tamil | https://i.imgur.com/1NHCrPM.png | 023
+FRANCE 24 French | YouTube Live | https://i.imgur.com/1NHCrPM.png | 023
 https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
 
-RT France | Tamil | https://i.imgur.com/xLFZAOw.png | 023
+RT France | YouTube Live | https://i.imgur.com/xLFZAOw.png | 023
 https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA/live
 
-RT UK | Tamil | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png | 023
+RT UK | YouTube Live | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png | 023
 https://www.youtube.com/user/RTUKnews/live
 
-NBC News | Tamil | https://i.imgur.com/NCReKGD.png | 
+NBC News | YouTube Live | https://i.imgur.com/NCReKGD.png |
 https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live
 
-Republic World  | Tamil | https://i.imgur.com/XZKXViS.png | 027
+Republic World | YouTube Live | https://i.imgur.com/XZKXViS.png | 027
 https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
 
-Republic Bharat | Tamil | https://yt3.ggpht.com/ytc/AKedOLS9_cPzsdvvrG-A-Sy80N3rFR5WFz4oF1VsN_r3Ng=s176-c-k-c0x00ffffff-no-rj | 030
+Republic Bharat | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLS9_cPzsdvvrG-A-Sy80N3rFR5WFz4oF1VsN_r3Ng=s176-c-k-c0x00ffffff-no-rj | 030
 https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng/live
 
-Nickelodeon | Tamil | https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png | 
+Nickelodeon | YouTube Live | https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png |
 https://www.youtube.com/c/NickelodeonBahasa/live
 
-ABC News | Tamil | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
+ABC News | YouTube Live | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-NDTV India | Tamil | https://yt3.ggpht.com/ytc/AKedOLRQUufCNVG3HFPvnXLeywGwm7ULTvpUMAQng-9TNg=s176-c-k-c0x00ffffff-no-rj |
+NDTV India | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLRQUufCNVG3HFPvnXLeywGwm7ULTvpUMAQng-9TNg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC9CYT9gSNLevX5ey2_6CK0Q/live
 
-Cricket Ireland Live | Tamil | https://yt3.ggpht.com/ytc/AKedOLR09j9uEJ1O57SfVbiR24pDJ1k5ZqyRluCpDfJgEg=s176-c-k-c0x00ffffff-no-rj |
+Cricket Ireland Live | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLR09j9uEJ1O57SfVbiR24pDJ1k5ZqyRluCpDfJgEg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/CricketIrelandLive/live
 
-Mango Telugu Movies | Tamil | https://yt3.ggpht.com/ytc/AKedOLR09j9uEJ1O57SfVbiR24pDJ1k5ZqyRluCpDfJgEg=s176-c-k-c0x00ffffff-no-rj |
+Mango Telugu Movies | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLR09j9uEJ1O57SfVbiR24pDJ1k5ZqyRluCpDfJgEg=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=WwEuHyiaD0Y/live
 
-Mastiii Live | Tamil | https://i.imgur.com/BSrSxX5.png |
+Mastiii Live | YouTube Live | https://i.imgur.com/BSrSxX5.png |
 https://www.youtube.com/channel/UCtgl-w7Xc3CWTQ6WQYxqbKg/live
 
-Monster Energy Supercross | Tamil | https://i.imgur.com/QwZByS6.jpg |
+Monster Energy Supercross | YouTube Live | https://i.imgur.com/QwZByS6.jpg |
 https://www.youtube.com/channel/UCkaNo2FUEWips2z4BkOHl6Q/live
 
-Bloomberg Quicktake | Tamil | https://yt3.ggpht.com/ytc/AKedOLRU2dcu5WIPCyo416KAJ5hvvU3-PrFvY3VltXip2CY=s176-c-k-c0x00ffffff-no-rj |
+Bloomberg Quicktake | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLRU2dcu5WIPCyo416KAJ5hvvU3-PrFvY3VltXip2CY=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=dp8PhLsUcFE/live
 
-Silver Sat | Tamil | https://yt3.ggpht.com/IcOJ2GmjmW1RkEpX-ePi80g5ohwyqvAD60DDt1_q0L4XmlgziMpe-3mYJtz9GQwMe7N09KxpZA=s176-c-k-c0x00ffffff-no-rj |
+Silver Sat | YouTube Live | https://yt3.ggpht.com/IcOJ2GmjmW1RkEpX-ePi80g5ohwyqvAD60DDt1_q0L4XmlgziMpe-3mYJtz9GQwMe7N09KxpZA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCf3ChRYcQkF6NDQJlMcTSdw/live
 
-TRT World | Tamil | https://yt3.ggpht.com/ytc/AKedOLS6F38gUVFlgqPibPvR34XXRpDMfoGSUzDM2n1tuGo=s176-c-k-c0x00ffffff-no-rj |
+TRT World | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLS6F38gUVFlgqPibPvR34XXRpDMfoGSUzDM2n1tuGo=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/trtworld/live
 
-Al Jazeera English | Tamil | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
+Al Jazeera English | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/AlJazeeraEnglish/live
 
-euronews | Tamil | https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s176-c-k-c0x00ffffff-no-rj |
+euronews | YouTube Live | https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/Euronews/live
 
-TV Derana - Sri Lanka | Tamil | https://i.imgur.com/1taNs6L.jpg |
+TV Derana - Sri Lanka | YouTube Live | https://i.imgur.com/1taNs6L.jpg |
 https://www.youtube.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng/live
 
-HiruTV - Sri Lanka | Tamil | https://i.imgur.com/SIZvEYL.png |
+HiruTV - Sri Lanka | YouTube Live | https://i.imgur.com/SIZvEYL.png |
 https://www.youtube.com/channel/UCcspHoBTj_aLhnJLwkMpWHQ/live
 
-G TV | Tamil | https://yt3.ggpht.com/ytc/AKedOLQl7s5yKvFuKWxYVDMi2jK5EsGCyQmQan_r802urw=s176-c-k-c0x00ffffff-no-rj |
+G TV | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLQl7s5yKvFuKWxYVDMi2jK5EsGCyQmQan_r802urw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/c/GTVonline/live
 
-FOX Canlı Yayın | Tamil | https://yt3.ggpht.com/ytc/AKedOLRk_I36UmF0SE2oETF-k53IVb7uXRKtn8mWFm5urA=s176-c-k-c0x00ffffff-no-rj |
+FOX Canlı Yayın | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLRk_I36UmF0SE2oETF-k53IVb7uXRKtn8mWFm5urA=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live
 
-Star Music India | Tamil | https://yt3.ggpht.com/ytc/AKedOLRqwxl3yLr-8WydgMknIjafEHKp9vQTPfYYEF7vRQ=s176-c-k-c0x00ffffff-no-rj |
+Star Music India | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLRqwxl3yLr-8WydgMknIjafEHKp9vQTPfYYEF7vRQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/user/Starmusicindia/live
 
-WB Kids | Tamil | https://yt3.ggpht.com/ytc/AKedOLQgOSA1VHw2sk1iyncECvCtekvLFZqOgfDKM5mjrQ=s176-c-k-c0x00ffffff-no-rj |
+WB Kids | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLQgOSA1VHw2sk1iyncECvCtekvLFZqOgfDKM5mjrQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
 
-India Today | Tamil | https://yt3.ggpht.com/ytc/AKedOLSt-tHE1CSHmihgq351JIiXq9-hdITBE4EYNGi2HQ=s176-c-k-c0x00ffffff-no-rj
+India Today | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLSt-tHE1CSHmihgq351JIiXq9-hdITBE4EYNGi2HQ=s176-c-k-c0x00ffffff-no-rj
 https://www.youtube.com/c/indiatoday/live
+
