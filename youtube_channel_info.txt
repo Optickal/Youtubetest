@@ -2,9 +2,6 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-COVID-19 Stats | YouTube Live | https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg | 
-https://www.youtube.com/watch?v=NMre6IAAAiU
-
 Polimer News | YouTube Live | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
@@ -122,9 +119,6 @@ https://www.youtube.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng/live
 HiruTV - Sri Lanka | YouTube Live | https://i.imgur.com/SIZvEYL.png |
 https://www.youtube.com/channel/UCcspHoBTj_aLhnJLwkMpWHQ/live
 
-G TV | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLQl7s5yKvFuKWxYVDMi2jK5EsGCyQmQan_r802urw=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/c/GTVonline/live
-
 News 12 New York | YouTube Live | https://yt3.ggpht.com/ytc/AKedOLQ5BHyctCylvceej7c9Gcm0v_DFlNBR_kWQTf9IfQ=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
@@ -162,4 +156,4 @@ Reuters | YouTube Live | https://yt3.ggpht.com/5ZFsUjhnJpFx-hEbLdkpoTlKO-2t6KPdf
 https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ/live
 
 ECN - European Cricket Network | YouTube Live | https://yt3.ggpht.com/5ZFsUjhnJpFx-hEbLdkpoTlKO-2t6KPdfJQik_YBqNFfkoYwgA8Eqxi-8XDwXUS7NLrbV_O9thA=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=piGU7481lmo
+https://m.youtube.com/channel/UCzpKcXOP32CxF-X6iTpM7EQ/live
