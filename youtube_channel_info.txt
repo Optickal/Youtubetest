@@ -2,7 +2,7 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Polimer News | YouTube Live | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 
+Polimer News | YouTube Live | https://i.imgur.com/ItegRAT.png | 
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
 Puthiya Thalaimurai | YouTube Live | https://i.imgur.com/MulgNRs.jpg | 
