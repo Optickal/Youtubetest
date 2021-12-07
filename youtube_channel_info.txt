@@ -2,106 +2,106 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Polimer News | YouTube Live | https://i.imgur.com/ItegRAT.png | 
+Polimer News | Tamil | https://i.imgur.com/ItegRAT.png | 
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-Puthiya Thalaimurai | YouTube Live | https://i.imgur.com/MulgNRs.jpg | 
+Puthiya Thalaimurai | Tamil | https://i.imgur.com/MulgNRs.jpg | 
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 
-News7 Tamil | YouTube Live | https://i.imgur.com/gpYwU6U.png | 
+News7 Tamil | Tamil | https://i.imgur.com/gpYwU6U.png | 
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Thanthi TV | YouTube Live | https://i.imgur.com/d1Zp4iW.png | 
-https://www.youtube.com/c/ThanthitvNews/live
-
-New18 TamilNadu | YouTube Live | https://i.imgur.com/MJrerNj.png | 
-https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
-
-Sun News | YouTube Live | https://i.imgur.com/qF9TcMW.png | 
+Sun News | Tamil | https://i.imgur.com/qF9TcMW.png | 
 https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
 
-NewsJ | YouTube Live | https://i.imgur.com/jgsEO54.png | 
-https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
+New18 TamilNadu | Tamil | https://i.imgur.com/MJrerNj.png | 
+https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Sathiyamtv | YouTube Live | https://i.imgur.com/IKp22Lb.png | 
-https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
-
-Dinamalar (தினமலர் செய்திகள்) | YouTube Live | https://i.imgur.com/9KOtLWa.jpg | 
-https://www.youtube.com/channel/UChcR8SrIiSON4KxmtpwfMgw/live
-
-Jaya Plus | YouTube Live | https://i.imgur.com/SJBIGOb.png | 
-https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw/live
-
-Kalaignar News | YouTube Live | https://i.imgur.com/O9mx3BX.jpg | 
-https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
-
-Raj News தமிழ் | YouTube Live | https://i.imgur.com/RuUvWva.jpg | 
+Raj News தமிழ் | Tamil | https://i.imgur.com/RuUvWva.jpg | 
 https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
 
-Captain News | YouTube Live | https://i.imgur.com/glL5zYr.png | 
+Dinamalar (தினமலர் செய்திகள்) | Tamil | https://i.imgur.com/9KOtLWa.jpg | 
+https://www.youtube.com/channel/UChcR8SrIiSON4KxmtpwfMgw/live
+
+Thanthi TV | Tamil | https://i.imgur.com/d1Zp4iW.png | 
+https://www.youtube.com/c/ThanthitvNews/live
+
+NewsJ | Tamil | https://i.imgur.com/jgsEO54.png | 
+https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
+
+Sathiyam TV | Tamil | https://i.imgur.com/IKp22Lb.png | 
+https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
+
+Jaya Plus | Tamil | https://i.imgur.com/SJBIGOb.png | 
+https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw/live
+
+Kalaignar News | Tamil | https://i.imgur.com/O9mx3BX.jpg | 
+https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
+
+Captain News | Tamil | https://i.imgur.com/glL5zYr.png | 
 https://www.youtube.com/c/CaptainNews/live
 
-Chanakyaa | YouTube Live | https://i.imgur.com/lix8q6y.jpg | 
+Chanakyaa | Tamil | https://i.imgur.com/lix8q6y.jpg | 
 https://www.youtube.com/c/Chanakyaa/live
 
-News7Tamil Bakthi | YouTube Live | https://i.imgur.com/iMVZbcX.png |
+News7Tamil Bakthi | Tamil | https://i.imgur.com/iMVZbcX.png |
 https://www.youtube.com/c/News7TamilBakthi/live
 
-DD NEWS 24X7 | YouTube Live | https://i.imgur.com/5J8K7qd.png | 
+DD NEWS 24X7 | Hindi | https://i.imgur.com/5J8K7qd.png | 
 https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
 
-NDTV 24*7 | YouTube Live | https://i.imgur.com/pMHfT2n.png | 
+NDTV 24*7 | English | https://i.imgur.com/pMHfT2n.png | 
 https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
 
-Republic World | YouTube Live | https://i.imgur.com/XZKXViS.png | 
+Republic World | English | https://i.imgur.com/XZKXViS.png | 
 https://www.youtube.com/channel/UCwqusr8YDwM-3mEYTDeJHzw/live
 
-DW News | YouTube Live | https://i.imgur.com/mO7gA6S.png | 
+DW News | English | https://i.imgur.com/mO7gA6S.png | 
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
-WION | YouTube Live | https://i.imgur.com/3PH7frA.jpg | 
+WION | English | https://i.imgur.com/3PH7frA.jpg | 
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
-Aaj Tak  | YouTube Live |  | 
+Aaj Tak  | Hindi |  | 
 https://www.youtube.com/watch?v=Cy_6-_XUW-c/live
 
-Franceinfo | YouTube Live | https://i.imgur.com/I3lw9Pf.png | 
+Franceinfo | French | https://i.imgur.com/I3lw9Pf.png | 
 https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
 
-FRANCE 24 French | YouTube Live | https://i.imgur.com/1NHCrPM.png | 
+FRANCE 24 French | French | https://i.imgur.com/1NHCrPM.png | 
 https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
 
-RT France | YouTube Live | https://i.imgur.com/xLFZAOw.png | 023
+RT France | French | https://i.imgur.com/xLFZAOw.png | 023
 https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA/live
 
-FRANCE 24 English | YouTube Live | https://i.imgur.com/1NHCrPM.png | 
+FRANCE 24 English | English | https://i.imgur.com/1NHCrPM.png | 
 https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg/live
 
-africanews (en français) | YouTube Live | https://i.imgur.com/Xr3cPT6.png |
+africanews (en français) | French | https://i.imgur.com/Xr3cPT6.png |
 https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ/live
 
-euronews (en français) | YouTube Live | https://i.imgur.com/2kfVg4K.jpg |
+euronews (en français) | French | https://i.imgur.com/2kfVg4K.jpg |
 https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg/live
 
-RT UK | YouTube Live | https://i.imgur.com/PimtyAl.png | 023
+RT UK | English | https://i.imgur.com/PimtyAl.png | 023
 https://www.youtube.com/user/RTUKnews/live
 
-ABC News | YouTube Live | https://i.imgur.com/sxEPMKY.png |
+ABC News | English | https://i.imgur.com/sxEPMKY.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 
-TRT World | YouTube Live | https://i.imgur.com/tAvZMwz.png |
+TRT World | English | https://i.imgur.com/tAvZMwz.png |
 https://www.youtube.com/c/trtworld/live
 
-Al Jazeera English | YouTube Live | https://i.imgur.com/sXq5pev.png |
+Al Jazeera English | English | https://i.imgur.com/sXq5pev.png |
 https://www.youtube.com/user/AlJazeeraEnglish/live
 
-News 12 New York | YouTube Live | https://i.imgur.com/mOlz491.png |
+News 12 New York | English | https://i.imgur.com/mOlz491.png |
 https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
-GBNews | YouTube Live | https://i.imgur.com/8wwqVHU.jpg |
+GBNews | English | https://i.imgur.com/8wwqVHU.jpg |
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
-LiveNOW from FOX | YouTube Live | https://i.imgur.com/s3JUNqT.jpg |
+LiveNOW from FOX | English | https://i.imgur.com/s3JUNqT.jpg |
 https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live
 
 Power Ranger Official| Kids | https://i.imgur.com/Wout1zl.jpg |
@@ -119,22 +119,22 @@ https://www.youtube.com/watch?v=h99SrJB7F5M/live
 Disney Junior | Kids | https://i.imgur.com/zuMiEE4.jpg |
 https://www.youtube.com/watch?v=5aglJRVC9ts/live
 
-TV Derana - Sri Lanka | YouTube Live | https://i.imgur.com/1taNs6L.jpg |
+TV Derana - Sri Lanka | Others | https://i.imgur.com/1taNs6L.jpg |
 https://www.youtube.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng/live
 
-HiruTV - Sri Lanka | YouTube Live | https://i.imgur.com/SIZvEYL.png |
+HiruTV - Sri Lanka | Others | https://i.imgur.com/SIZvEYL.png |
 https://www.youtube.com/channel/UCcspHoBTj_aLhnJLwkMpWHQ/live
 
-பக்தி பாடல்கள் Bhakthi Padalgal | YouTube Live |  |
+பக்தி பாடல்கள் Bhakthi Padalgal | Tamil |  |
 https://www.youtube.com/channel/UCrVToI-IIfV5RskUjRpER_w/live
 
-SVBC2 TTD Tamil | YouTube Live | https://i.imgur.com/0TVwLed.png |
+SVBC2 TTD Tamil | Tamil | https://i.imgur.com/0TVwLed.png |
 https://www.youtube.com/channel/UCsLjLyPnPH4hile6qzNnlgw/live
 
-Mr Play  | YouTube Live |  |
+Mr Play  | Sports |  |
 https://www.youtube.com/channel/UC8Wd_RVw8T1O1_IWEbICkIg/live
 
-Learn French with FrenchPod101.com | YouTube Live |  |
+Learn French with FrenchPod101.com | Education |  |
 https://youtube.com/channel/UCHk14TRSD33vAyx5xKzpcnw/live
 
 asianetnews | Malayalam | https://i.imgur.com/ZVsn7QO.jpg |
@@ -167,16 +167,16 @@ https://www.youtube.com/channel/UCFx1nseXKTc1Culiu3neeSQ/live
 Janam Tv | Malayalam | https://i.imgur.com/nn3Xi5P.png |
 https://www.youtube.com/channel/UCNVkxRPqsBNejO6B9thG9Xw/live
 
-Star Music Live | YouTube Live | https://i.imgur.com/PDwkeo2.png |
+Star Music Live | Music | https://i.imgur.com/PDwkeo2.png |
 https://www.youtube.com/channel/UCd460WUL4835Jd7OCEKfUcA/live
 
-Aditya Music | YouTube Live | https://i.imgur.com/JVsIAch.jpg |
+Aditya Music | Music | https://i.imgur.com/JVsIAch.jpg |
 https://www.youtube.com/channel/UCNApqoVYJbYSrni4YsbXzyQ/live
 
-Mango Music | YouTube Live | https://i.imgur.com/gGcVPsX.jpg |
+Mango Music | Music | https://i.imgur.com/gGcVPsX.jpg |
 https://www.youtube.com/channel/UCWqyzn3cDkRDh3kRGWrIQwA/live
 
-ArcadiaTV World (India - english) | YouTube Live | https://i.imgur.com/ol4KGlm.png |
+ArcadiaTV World (India - english) | Others | https://i.imgur.com/ol4KGlm.png |
 https://www.youtube.com/watch?v=M8QnFLYUZp4/live
 
 CNBC Awaaz | Hindi | https://i.imgur.com/cIDHsge.jpg | 
@@ -229,6 +229,9 @@ https://www.youtube.com/channel/UCigwIOn1yCeH9g5C_lmbZ0Q/live
 
 Tollywood Box Office | Movies | https://i.imgur.com/CQu2ZXr.png | 
 https://www.youtube.com/channel/UCJkBONUIutyL6FkiXVTaS5g/live
+
+Tamil Dubbed Movies | Movies | https://i.imgur.com/7etGrPL.jpg |
+https://www.youtube.com/channel/UC7LKvP7jvw4v99H45Lu49pg/live
 
 Zee News | Hindi | https://i.imgur.com/q5HR6p1.png | 
 https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live
