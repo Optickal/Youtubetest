@@ -65,14 +65,8 @@ https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 WION | English | https://i.imgur.com/3PH7frA.jpg | 
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
-BBC News Hindi | English | https://i.imgur.com/9fya1RT.jpg |
-https://www.youtube.com/channel/UCef1-8eOpJgud7szVPlZQAQ/live
-
 CGTN Europe | English | https://i.imgur.com/3IjszqF.jpg |
 https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
-
-Aaj Tak  | Hindi |  | 
-https://www.youtube.com/watch?v=Cy_6-_XUW-c/live
 
 Franceinfo | French | https://i.imgur.com/I3lw9Pf.png | 
 https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
@@ -90,7 +84,7 @@ africanews (en français) | French | https://i.imgur.com/Xr3cPT6.png |
 https://www.youtube.com/channel/UC25EuGAePOPvPrUA5cmu3dQ/live
 
 euronews (en français) | French | https://i.imgur.com/2kfVg4K.jpg |
-https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg/live
+https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg
 
 RT UK | English | https://i.imgur.com/PimtyAl.png | 023
 https://www.youtube.com/user/RTUKnews/live
@@ -122,9 +116,6 @@ https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q/live
 Power Ranger Official| Kids | https://i.imgur.com/Wout1zl.jpg |
 https://youtube.com/c/PowerRangersOfficial/live
 
-Nickelodeon Bahasa | Kids | https://i.imgur.com/H6ZNzHp.png |
-https://www.youtube.com/c/NickelodeonBahasa/live
-
 WB Kids | Kids | https://i.imgur.com/OaKB27t.png |
 https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
 
@@ -150,10 +141,10 @@ Disney Junior | Kids | https://i.imgur.com/zuMiEE4.jpg |
 https://www.youtube.com/watch?v=7XiHONYgALQ/live
 
 LEGO | Kids | https://i.imgur.com/vvkdDDt.png |
-https://www.youtube.com/watch?v=S4BPdzo2gRs/live
+https://www.youtube.com/watch?v=Y5R7vrrTdB8/live
 
 LEGO | Kids | https://i.imgur.com/vvkdDDt.png |
-https://www.youtube.com/watch?v=s3dAWPyHLSM/live
+https://www.youtube.com/watch?v=xPhlrsZvZdg/live
 
 PJ Masks Official | Kids | https://i.imgur.com/F95Xf1M.png |
 https://www.youtube.com/watch?v=XUoMptfVZ2A/live
@@ -161,11 +152,8 @@ https://www.youtube.com/watch?v=XUoMptfVZ2A/live
 Peppa Pig Français | Kids | https://i.imgur.com/OyXFA4n.png |
 https://www.youtube.com/channel/UCXptamDYEVcU4JCio30hYTw/live
 
-Ricky Zoom Français | Kids | https://i.imgur.com/ocgRZMn.jpg |
-https://www.youtube.com/channel/UCdnE__Jh8az0raxk8jytucg/live
-
 Pyjamasques Français | Kids | https://i.imgur.com/F95Xf1M.png |
-https://www.youtube.com/watch?v=O8w9dRAg28E/live
+https://www.youtube.com/watch?v=3LjhQAaPgWo/live
 
 Pyjamasques Français | Kids | https://i.imgur.com/F95Xf1M.png |
 https://www.youtube.com/watch?v=tfBe7KXq3mA/live
@@ -190,9 +178,6 @@ https://www.youtube.com/channel/UCrVToI-IIfV5RskUjRpER_w/live
 
 SVBC2 TTD Tamil | Tamil | https://i.imgur.com/0TVwLed.png |
 https://www.youtube.com/channel/UCsLjLyPnPH4hile6qzNnlgw/live
-
-Mr Play  | Sports |  |
-https://www.youtube.com/channel/UC8Wd_RVw8T1O1_IWEbICkIg/live
 
 Sri Lanka Cricket  | Sports | https://i.imgur.com/muobbvu.png |
 https://www.youtube.com/channel/UCJA-NQ4MtcRIog66wziD8fA/live
@@ -239,9 +224,6 @@ https://www.youtube.com/channel/UCbdTuwZxsxuxAp_UGbl7YpA/live
 Star Music Live | Music | https://i.imgur.com/PDwkeo2.png |
 https://www.youtube.com/channel/UCd460WUL4835Jd7OCEKfUcA/live
 
-Tamil Music Video| Music | https://i.imgur.com/PDwkeo2.png |
-https://www.youtube.com/channel/UCzittbHcPDuoAQQOkJNvHmw/live
-
 Aditya Music | Music | https://i.imgur.com/JVsIAch.jpg |
 https://www.youtube.com/channel/UCNApqoVYJbYSrni4YsbXzyQ/live
 
@@ -282,7 +264,7 @@ Monster Jam | Sports | https://i.imgur.com/gtNsx8U.jpg |
 https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
 
 India Today | Hindi | https://i.imgur.com/xFXLrVW.png | 
-https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw/live
+https://www.youtube.com/watch?v=lyeyoqwXm5o/live
 
 Marvel HQ | Kids | https://i.imgur.com/OwjRrru.png | 
 https://www.youtube.com/channel/UCxwitsUVNzwS5XBSC5UQV8Q/live
@@ -296,8 +278,11 @@ https://www.youtube.com/channel/UCmWZB57dUwFfj847-4y63JA/live
 Nickelodeon  | Kids | https://i.imgur.com/FeJ2C19.png | 
 https://www.youtube.com/channel/UC5M_h2S8Ldoc9M6f7B-_m6A/live
 
-Hindi Dia Entertainments | Movies |  | 
-https://www.youtube.com/channel/UCIWvodd-krHG5VH5UcXPF6w/live
+Hindi AR Entertainments | Movies |  | 
+https://www.youtube.com/channel/UCF_xLQFSgkdQ3hcsSy9F3Zw/live
+
+Hindi Dubbed | Movies |  | 
+https://www.youtube.com/channel/UCQSSTmzwXzGn84mmYn0ve_g
 
 Telugu Junction AR Entertainments | Movies |  | 
 https://www.youtube.com/channel/UCigwIOn1yCeH9g5C_lmbZ0Q/live
@@ -306,7 +291,7 @@ Tollywood Box Office | Movies | https://i.imgur.com/CQu2ZXr.png |
 https://www.youtube.com/channel/UCJkBONUIutyL6FkiXVTaS5g/live
 
 Tamil Dubbed Movies | Movies | https://i.imgur.com/7etGrPL.jpg |
-https://www.youtube.com/channel/UC7LKvP7jvw4v99H45Lu49pg/live
+https://www.youtube.com/watch?v=oo8_5l1rx8k/live
 
 Zee News | Hindi | https://i.imgur.com/q5HR6p1.png | 
 https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live
@@ -367,3 +352,6 @@ https://www.youtube.com/channel/UCCXCjcGxy88yelLLFj7GIwg/live
    
 Piano Relaxing | 4K | https://i.imgur.com/RLt2TCH.jpg | 
 https://www.youtube.com/channel/UCEiS8m8OLFI0REntmsTvzjA/live
+
+Space Videos | 4K | https://i.imgur.com/vqbtNcz.jpg |
+https://www.youtube.com/watch?v=86YLFOog4GM/live
