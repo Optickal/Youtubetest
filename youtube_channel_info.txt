@@ -2,29 +2,29 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Polimer News | Tamil | https://i.imgur.com/ItegRAT.png | 
+Polimer News (பாலிமர் செய்திகள்) | Tamil | https://i.imgur.com/ItegRAT.png | 
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-Puthiya Thalaimurai | Tamil | https://i.imgur.com/MulgNRs.jpg | 
+Puthiya Thalaimurai (புதிய தலைமுறை) | Tamil | https://i.imgur.com/MulgNRs.jpg | 
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 
-News7 Tamil | Tamil | https://i.imgur.com/gpYwU6U.png | 
+News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி) | Tamil | https://i.imgur.com/gpYwU6U.png | 
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Sun News | Tamil | https://i.imgur.com/qF9TcMW.png | 
-https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
-
-New18 TamilNadu | Tamil | https://i.imgur.com/MJrerNj.png | 
-https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
-
-Raj News தமிழ் | Tamil | https://i.imgur.com/RuUvWva.jpg | 
-https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
+Thanthi TV (தந்தி டிவி) | Tamil | https://i.imgur.com/d1Zp4iW.png | 
+https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA/live
 
 Dinamalar (தினமலர் செய்திகள்) | Tamil | https://i.imgur.com/9KOtLWa.jpg | 
 https://www.youtube.com/channel/UChcR8SrIiSON4KxmtpwfMgw/live
 
-Thanthi TV | Tamil | https://i.imgur.com/d1Zp4iW.png | 
-https://www.youtube.com/c/ThanthitvNews/live
+Sun News (சன் நியூஸ்) | Tamil | https://i.imgur.com/qF9TcMW.png | 
+https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
+
+News18 TamilNadu (நியூஸ்18 தமிழ்நாடு தொலைக்காட்சி) | Tamil | https://i.imgur.com/MJrerNj.png | 
+https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
+
+Raj News தமிழ் | Tamil | https://i.imgur.com/RuUvWva.jpg | 
+https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
 
 NewsJ | Tamil | https://i.imgur.com/jgsEO54.png | 
 https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
