@@ -3,7 +3,7 @@
 
 [![M3U generator for YouTube](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
 
-`https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u`
+``` bash https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u ```
 
 Works best with : [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp) ,
                   [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en_IN&gl=US) ,
@@ -15,7 +15,7 @@ Updated m3u links of YouTube live channels, **auto-updated every hour**.
 
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
+Paste this URL: ``` bash https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u ``` bash to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
