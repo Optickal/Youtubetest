@@ -7,11 +7,14 @@
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u 
 ```
 
-Works best with : [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp) ,
+Works best with : 
+``` bash
+                  [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp) ,
                   [Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en_IN&gl=US) ,
                   [OTT Navigator IPTV](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=en_IN&gl=US) ,
                   [Televizo - IPTV player](https://play.google.com/store/apps/details?id=com.ottplay.ottplay) ,
                   [TVirl. IPTV for Android TV](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl)
+```
 
 Updated m3u links of YouTube live channels, **auto-updated every hour**.
 
