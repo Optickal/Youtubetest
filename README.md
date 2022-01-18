@@ -29,4 +29,4 @@ chmod +x autorun.sh
 
 Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
 
-Credits: [benmoose39](https://github.com/benmoose39)
+Credits: [**benmoose39**](https://github.com/benmoose39)
