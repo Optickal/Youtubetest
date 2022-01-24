@@ -13,6 +13,8 @@ banner = r'''
 
 #EXTINF:-1 group-title="BPL Live" tvg-logo="https://i.imgur.com/KUwqZ8w.jpg" tvg-id="", Chattogram Challengers vs Khulna Tigers
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/X85n7K4CMTMpdpNbJ9ewAr_0lpuBqCORVfTM3SatMKQmyhchWj8R8ySqEowJNauevLNmIjEZOhb-WGNNc3hOIw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="BPL Live" tvg-logo="https://i.imgur.com/KUwqZ8w.jpg" tvg-id="", Gazi TV
+http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG80573.png" tvg-id="", 7Star TV
 http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
 #EXTINF:-1 group-title="7 Star Cloud" tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG35713.png" tvg-id="", Sana TV
