@@ -11,6 +11,8 @@ banner = r'''
 #                                  >> https://github.com/naveenland4      #
 ###########################################################################
 
+EXTINF:-1 group-title="PSL" tvg-logo="" tvg-id="", PSL
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003104/LIV16UEFA/master_4500.m3u8
 '''
 
 import requests
