@@ -19,6 +19,8 @@ https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oTPJYPO.png" tvg-id="", Bloomberg TV+ UHD
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="", Rai 4K (Italy)
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 '''
 
 import requests
