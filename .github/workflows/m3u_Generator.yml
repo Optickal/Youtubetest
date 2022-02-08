@@ -36,7 +36,6 @@ jobs:
           git config --global user.email "naveen.land4@gmail.com"
           git config --global user.name "Naveen Cool"
       
-      
       - name: Main
         run: |
           pwd
