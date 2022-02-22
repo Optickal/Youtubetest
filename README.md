@@ -4,7 +4,7 @@
 [![M3U generator for YouTube](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/naveenland4/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
 
 ``` bash
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u 
+https://168.235.92.95/naveenland4/YouTube_to_m3u/raw/main/youtube.m3u
 ```
 
 Works best with : [Perfect Player IPTV](http://niklabs.com/) ,
