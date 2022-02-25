@@ -24,6 +24,15 @@ https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/r9ia17h.jpg" tvg-id="", TV9 Tamil
 http://14.199.164.20:4001/play/a0tr/index.m3u8
+
+#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/C8DXbt1.png" tvg-id="", BFM Grand Lille (720p)
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="French" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" tvg-id="", BFM Lyon (480p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
+#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/4buTOS3.png" tvg-id="", BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/L4EFgEn.png" tvg-id="", TV5Monde Francia FR (1080p)
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 '''
 
 import requests
