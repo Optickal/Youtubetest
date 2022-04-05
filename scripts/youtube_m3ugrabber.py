@@ -12,6 +12,9 @@ banner = r'''
 ###########################################################################
 
 
+
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", TravelXP 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/308733.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oYYncnc.png" tvg-id="", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/C9UDwli.png" tvg-id="", Clarity 4K
