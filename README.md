@@ -6,10 +6,6 @@
 ``` bash
 
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u
-
-Or
-
-http://youtubetv.ga/
 ```
 
 Works best with : [Perfect Player IPTV](http://niklabs.com/) ,
@@ -22,7 +18,7 @@ Updated m3u links of YouTube live channels, **auto-updated every hour**.
 
 
 ### Usage
-Paste this URL: 'https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u or http://youtubetv.ga/' to any player which supports M3U playlists
+Paste this URL: 'https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/youtube.m3u' to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
