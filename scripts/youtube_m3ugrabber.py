@@ -13,6 +13,8 @@ banner = r'''
 
 
 
+
+https://assets-1.mypowerdisk.com/disk/upload/prod/11038084419/4ffb5ec015ce4b3d9d676fe5a6a6e384.mp4
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", TravelXP 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/308733.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/oYYncnc.png" tvg-id="", Loupe 4K
