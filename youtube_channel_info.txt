@@ -2,11 +2,11 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Polimer News (பாலிமர் செய்திகள்) | Tamil | https://i.imgur.com/ItegRAT.png | 
-https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
-
 NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி) | Tamil | https://i.imgur.com/AzIEYXU.png |
 https://www.youtube.com/channel/UCtbo6_eDG7zEtaOtcSltJkA/live
+
+Polimer News (பாலிமர் செய்திகள்) | Tamil | https://i.imgur.com/ItegRAT.png | 
+https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
 Puthiya Thalaimurai (புதிய தலைமுறை) | Tamil | https://i.imgur.com/MulgNRs.jpg | 
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
