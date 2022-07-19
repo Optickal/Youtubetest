@@ -2,61 +2,61 @@
 	~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
 
-Kalaignar News (கலைஞர் செய்திகள்) | Tamil | https://i.imgur.com/O9mx3BX.jpg | 
+Kalaignar News | Tamil | https://i.imgur.com/O9mx3BX.jpg | 
 https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg/live
 
-NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி) | Tamil | https://i.imgur.com/AzIEYXU.png |
+NewsTamil 24x7 | Tamil | https://i.imgur.com/AzIEYXU.png |
 https://www.youtube.com/channel/UCtbo6_eDG7zEtaOtcSltJkA/live
 
-Polimer News (பாலிமர் செய்திகள்) | Tamil | https://i.imgur.com/ItegRAT.png | 
+Polimer News | Tamil | https://i.imgur.com/ItegRAT.png | 
 https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
 
-Puthiya Thalaimurai (புதிய தலைமுறை) | Tamil | https://i.imgur.com/MulgNRs.jpg | 
+Puthiya Thalaimurai | Tamil | https://i.imgur.com/MulgNRs.jpg | 
 https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
 
-News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி) | Tamil | https://i.imgur.com/gpYwU6U.png | 
+News7 Tamil | Tamil | https://i.imgur.com/gpYwU6U.png | 
 https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 
-Sathiyam TV (சத்தியம் டிவி) | Tamil | https://i.imgur.com/IKp22Lb.png | 
+Sathiyam TV | Tamil | https://i.imgur.com/IKp22Lb.png | 
 https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 
-Thanthi TV (தந்தி டிவி) | Tamil | https://i.imgur.com/d1Zp4iW.png | 
+Thanthi TV | Tamil | https://i.imgur.com/d1Zp4iW.png | 
 https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA/live
 
-Dinamalar (தினமலர் செய்திகள்) | Tamil | https://i.imgur.com/9KOtLWa.jpg | 
+Dinamalar | Tamil | https://i.imgur.com/9KOtLWa.jpg | 
 https://www.youtube.com/channel/UChcR8SrIiSON4KxmtpwfMgw/live
 
-Sun News (சன் நியூஸ்) | Tamil | https://i.imgur.com/qF9TcMW.png | 
+Sun News | Tamil | https://i.imgur.com/qF9TcMW.png | 
 https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ/live
 
 Win News | Tamil | https://winnews.in/images/icons/winews.png |
 https://www.youtube.com/channel/UCLhl7rXk5hzirhtJs6kIgdg/live
 
-News18 TamilNadu (நியூஸ்18 தமிழ்நாடு தொலைக்காட்சி) | Tamil | https://i.imgur.com/aPq38ho.png | 
+News18 TamilNadu | Tamil | https://i.imgur.com/aPq38ho.png | 
 https://youtu.be/mQrZJFyYzlI/live
 
-Raj News (ராஜ் நியூஸ் தமிழ்) | Tamil | https://i.imgur.com/RuUvWva.jpg | 
+Raj News | Tamil | https://i.imgur.com/RuUvWva.jpg | 
 https://www.youtube.com/channel/UC1mkFVHzP87YQ87PSMxo9MQ/live
 
-NewsJ (நியூஸ் ஜெ) | Tamil | https://i.imgur.com/jgsEO54.png | 
+NewsJ | Tamil | https://i.imgur.com/jgsEO54.png | 
 https://www.youtube.com/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw/live
 
-Jaya Plus (ஜெயா பிளஸ்) | Tamil | https://i.imgur.com/SJBIGOb.png | 
+Jaya Plus | Tamil | https://i.imgur.com/SJBIGOb.png | 
 https://www.youtube.com/channel/UCOP4Gbw-T1ofcW8vyL89ZDw/live
 
-Captain News (கேப்டன் நியூஸ்) | Tamil | https://i.imgur.com/glL5zYr.png | 
+Captain News | Tamil | https://i.imgur.com/glL5zYr.png | 
 https://www.youtube.com/c/CaptainNews/live
 
-Zee Tamil News (ஜீ தமிழ் செய்திகள்) | Tamil | https://i.imgur.com/3rLEBaS.jpg |
+Zee Tamil News | Tamil | https://i.imgur.com/3rLEBaS.jpg |
 https://www.youtube.com/channel/UCxRRfF6qIoYntp3zNOozonQ/live
 
-Chanakyaa (சாணக்யா) | Tamil | https://i.imgur.com/lix8q6y.jpg | 
+Chanakyaa | Tamil | https://i.imgur.com/lix8q6y.jpg | 
 https://www.youtube.com/channel/UCoOu4D7foJWfKvcDLxqrF2Q/live
 
-News7Tamil Bakthi (நியூஸ் 7 தமிழ் பக்தி) | Tamil | https://i.imgur.com/iMVZbcX.png |
+News7Tamil Bakthi | Tamil | https://i.imgur.com/iMVZbcX.png |
 https://www.youtube.com/c/News7TamilBakthi/live
 
-Britain Tamil Bhakthi (பிரிட்டன் தமிழ் பக்தி) | Tamil | https://i.imgur.com/1TvFl8x.jpg |
+Britain Tamil Bhakthi | Tamil | https://i.imgur.com/1TvFl8x.jpg |
 https://youtube.com/channel/UCO9X6jY54r0tPDX8vTIVQrg/live
 
 NDTV 24*7 | English | https://i.imgur.com/pMHfT2n.png | 
