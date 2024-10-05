@@ -320,7 +320,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/pR6xpNp.png" tvg-id="", ETV Telangana
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728166176/ei/wGQBZ90C68ex8g-jyaboCQ/ip/52.234.36.36/id/rd-hmYvlGPM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51277293/txs/51277293%2C51277294%2C51277295%2C51277296%2C51277297%2C51277298%2C51277299/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxZfl1YGqJOaLWZcApcgFugQGBe2RA5K_VdOeESCwVshE_ZDCb1EEVHSC/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOfHSolXjVa0APEqhR6gKKZz_nyIfa2bHfsnvSPFJmaeAiAw7xl9noIIsaGQixbdPkmAOisKFLx24TM1toiWH5OAuQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/oF59Iqw.png" tvg-id="", ETV Andhra Pradesh
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
