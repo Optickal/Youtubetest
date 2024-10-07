@@ -209,7 +209,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728364098/ei/4mkEZ56sCqKLsfIPqIi_iQc/ip/52.225.77.213/id/rYnhg0XJBX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51277299/txs/51277293%2C51277294%2C51277295%2C51277296%2C51277297%2C51277298%2C51277299/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxXJkQVxW1AoZTNJQ-iUCyaX6pMkXbh7LRxyV6TRz0_aEANC2a78a9kVI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBp6o6GCbgqHENHIDzZ7iJMlzkR2s-LaPo6DiArjBKeQCICHZx4BCxznG8PVkmYUWGvcnunge7GZDcxTij9cVnnoY/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
