@@ -41,7 +41,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730322432/ei/oEsiZ8rOKNfEybgP5umM2QE/ip/172.183.162.32/id/VHk8B8X0mA4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAY0Q-Eb4tlHl_PCnmXqC5sL7koqC7g2vYv5UTGgStpas77L4UdKHnypWzrA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBgBaETEjLDWBM15Ogi5ulXCVzSSlNS_l9ANyLu6VlHUCIFcIgCTW3aQVfdkbSuORPtg4Iclw6jBDx_eCxxoRTpez/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -173,7 +173,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/cIDHsge.jpg" tvg-id="", CNBC Awaaz
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730326217/ei/aFoiZ7j-Opi1ir4PgObZmAU/ip/172.183.88.176/id/RBVw6EIgtPg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAXCpawkyIAW8o8xZKJHUM94xozPMIwkjXajLOKTTtLTJfwsXPqBeTwoSfI4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326931/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJX05wxNufR5qN_RknpLeORoI-ObvbQjg2fwEZMbZoNrAiA_9LpRE4hFCadDEiaSGGeyJiKzeLXOqREtOb1DwcasIw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/ipmp1mQ.jpg" tvg-id="", Zee Hindustan
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
