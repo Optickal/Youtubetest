@@ -197,7 +197,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="", Franceinfo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731928202/ei/Ksw6Z63vJY7kir4P15_NkA8/ip/172.183.77.204/id/Z-Nwo-ypKtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340653/txs/51340226%2C51340227%2C51340228%2C51340229%2C51340653%2C51340654%2C51340655%2C51340656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/qtApAV5ZYgYNEjsTOk7sLMlmvtYWhuMwlqIBTfZoR5lN6ajxwGoKZdZeQRUSe9E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgaDOC1pWJulNI3kbUAC5BCfz3zKfj02hffSQ8dMwYA5wCICNJDXO8nWaXUByteRYgJ7wnvjedDgwrk0aUYbfXHqZ3/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 French
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
