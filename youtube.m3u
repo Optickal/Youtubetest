@@ -335,7 +335,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Srilanka Tv" tvg-logo="https://i.imgur.com/qGteo9g.jpg" tvg-id="", TV Derana
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732126561/ei/AdM9Z4ueKZq3ir4Po4fo2Ac/ip/172.183.82.155/id/rpEdvAZYjjE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337702/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAcYznKQtXXyYcF4BXAXqsP-4SoHBBAYkDS2sO13w-2l21ajLCas2j0iMiro/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM7sVJodQ4jYy5yymW8FkvyRDI3VjO_4PZeoXAE3v2i6AiEA7s4B6x9HcUfHBV4sxiSmPI_QZcPuI61MvwuG_HwwVy4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Srilanka Tv" tvg-logo="https://i.imgur.com/0zQu8CV.png" tvg-id="", TV Rupavahini
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
