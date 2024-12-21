@@ -143,13 +143,13 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/y5kZk6K.png" tvg-id="", ANews
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734840174/ei/DjtnZ9zoDvaFkucPw-ySeQ/ip/20.75.94.46/id/Y8re9iEbrkA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUNbmJ25Lk-l8SgnlKMnm2qfdO0LoOEa5fLEV38kR8X-34Igpw7z8mXUvJXo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL5Q2NKbHE6ilmQuT0efjRkjOeumF0ky8U8v3EQM9P_1AiB2zuAtz3bAa9RoPTw2KVr7duXe0EK5EVA2wcfB-4L7NQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/ORMjgBC.png" tvg-id="", Sky News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/KKoPfER.gif" tvg-id="", Newsmax TV
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734840175/ei/DztnZ-KYFMiDkucP1KS-8Ao/ip/20.75.94.46/id/zognWzoTMT4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUPp1wvEDDLRo2bjmDLSE2w-DtWKHSnZqmEtGzQPQSA4AuPfdt46tqg2P9A8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMtM2Av1hxicSG2Z7jyO12r4oHIspeIscbD58osaOmYGAiBfLJlXhtiYAJesE_b3DDy5KYERseOWbaxwSvecXcpf4w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
