@@ -257,7 +257,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/ZVsn7QO.jpg" tvg-id="", asianetnews
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740960640/ei/IJ_EZ9CrCpmLkucPh-H14QE/ip/20.42.43.89/id/Ko18SgceYX8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51399976/txs/51399971%2C51399972%2C51399973%2C51399974%2C51399975%2C51399976%2C51399977%2C51399978/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3zG411q8mDS-1kJmtTqngxtqaPuSqMm0v6UP-xrEq1dZL0VVdjKunUPVeMowPJmfidYaTeP7LDc/spc/RjZbSe99r12YkJMxKVzc1-QH63KV0bJFqRUnyGe1O7zx3V_josJKORXvN29n_xE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51387515/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOJSK-TKFWPUmfDH00PT5TLzcnrTiCjNDE891ZX1pc3ACIFfos-pYzCpQm0Zi69_4Lwd4yR5zEEUQVBobcwYyg71Y/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
