@@ -38,7 +38,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741395669/ei/dULLZ7KXHfuY2_gPlcqE-AY/ip/20.25.192.8/id/aC80-BvMgOc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3zn6bxUQi3E89Ypxt5IfFn70bM7lsqGbSsCkMe-TgbbNghoMGv-cMrG2-8FNKQP6d8Ky1Hbl9p1/spc/RjZbSd25rUsh1uL5Jzx1wl9zPpFOQSP9Zaero5a0JQZuwY9HugyV9ut5CG0N0OM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51358316%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJa-Lan239dq4eYPOCMxp9By6JUABU8oV_Ih0I5rhT9FAiAs-bP4qIxFbJYBKZpt4w9Z_rnbU6MqJUcvKN_x4i2LSg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
