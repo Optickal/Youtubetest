@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744690066/ei/Mof9Z7KeG6yU2_gPxoq4qQs/ip/23.98.188.12/id/YYfmmL7tfRY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437493/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOW590ziF-qkbbV_hKQ515tAJurktsbaS3WYKNwtWtPWt76Rwh2DXZF4I0P0yz4wH08k3eCX2El/spc/_S3wKi0kr6irQzNv7OGeUCT-aaKo_62Xk7P1rVpYh9bRA6FQQY7rmYCreaYL7-A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANxUBNfULxOGrTRddkk3A2pZQvHgagWCrwmkRhtDohQwAiEAj1Pzs1pGWHnr3nvGk8mgjJOI6pyy_tg8J-V7jSnLvGg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
