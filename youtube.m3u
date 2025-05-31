@@ -104,10 +104,10 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3PH7frA.jpg" tvg-id="", WION
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748684085/ei/1Xg6aMylB8agir4P09XaiAY/ip/52.162.246.226/id/aRb_FBYY8Zk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNwY7XpEoZzZ6TB9A6vyAJKlNFxbH_svE3zA1brGaD22j9L1Erpo19VYg1Ytr9J5WUpfr3Kev6Q/spc/l3OVKdmv8AQRVidgBLdhlF-D-Yah9iC4MOtaSy7DcpMPMVPzwqVB3iR6nYDOpPs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKrOj43_3NOzhFDd0wZ-xEv2hOxjuroSBsYIRJS-tS2RAiB4DIR1Yyp-U7PAQE56vcnZk4DONWJP4Px1WvMLG-Mf_w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3IjszqF.jpg" tvg-id="", CGTN Europe
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748684086/ei/1Xg6aLGhN5vRlu8Pob6BOQ/ip/52.162.246.226/id/_6dRRfnYJws.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOGSuU68DlyiEgKSmx40XmIQBdhad789gGbxPQemKKq6SinB-eztICZplYAOzgz9Yr86Y5XAElM/spc/l3OVKewBdoJuWMCS937lVdbH1ljMFsB2PhF_xlhvoH9Df-e86gkFqKcnY68_X5DKbF0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPrZAoQ8F5kDSQAFiX2XjaHgHnzuhps6TqVku2z7nHovAiBdytBZ3E1IpuT4zIkxcaY_-3_HIcUWwzErtXTI2L8YBA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
