@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="", Republic World
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749669936/ei/0INJaMrNCeG7kucPqPCdaQ/ip/137.135.65.18/id/CAGLwBkxEug.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51493642/txs/51493636%2C51493637%2C51493638%2C51493639%2C51493640%2C51493641%2C51493642%2C51493643/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOkrC72Gmo_J6WjI75qhjFj5YuC_LoIBio17esk1a3A_vJ-P8MS_BAdYctobXt9_bHQtJBdBbPx/spc/l3OVKQoFOS9mTQt0erjYXTqIcnIYeWhRfyZQaLzFs2W_yI8ytRwGK8gBE7eo6tQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIVyPn7hnP4_UMV-uFLrksltfYhfADjpmIVVoyxsnOfwAiEAzzTZ8jL3H4wS4WrfEyf2iIhDGFakH8UmiL5mj7SklW4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
