@@ -161,7 +161,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UmeRC9Z.png" tvg-id="", NewsX
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751577041/ei/cJ1maLzeONOYsfIPxaWzqAg/ip/40.83.245.131/id/eoJSlDVIQ-A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMeS_nsKBqA43M2E_d8YV_ZiDUMFeTC23DRj3EBuZa6ZGLMIKTn2nN-wJ3iqzxv95NIHe8Ljyw1/spc/l3OVKfGmk8QvebgGQj-P8l4npv9BslOoBYtHJl_Ld4lWH1v2rOmgWyAxPzK8EQ-zT0w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMbFXRM5us1_VVli2X-EaPGrd7VdzK2CXLGApN4Jt79AAiEAlIUx3AS_AuC9Hf5EK1HlVWxmQ0g4thjGxdyK_NTM95s%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/bbKSwzq.gif" tvg-id="", MIRROR NOW
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
