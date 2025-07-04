@@ -305,7 +305,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1751618554/ei/mj9naKjUEszDkucP0sTj4QQ/ip/172.203.15.121/id/MRlHt1GOhGw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLMnj7qv6NwJwt6bOouM1Ym78X0nXcrAKavZ72q07V301Q0QXbcb1DRnS_1GpmxwWxWLVQpLILMX/spc/l3OVKayVCTyPN-QLFv_9uyhOAMRHWU0RkcwhsGmQJAt887SuzDaTQ1wa58yqa7gdqGw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAMQhbAucsh_l7C27cuEKz1GkGp_V2kgn7RUG6jwjP74CIHCfS83pTxqBMduWvuJyDvRnNJHUXzeqhkP_bSfrpvQo/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/hhuuqEK.png" tvg-id="", DD Sports
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
