@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3IjszqF.jpg" tvg-id="", CGTN Europe
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752027015/ei/J3ttaKyIDKGYmLQPnPWJoAQ/ip/104.43.202.195/id/yNajl7-X4jg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN4W6V-hfjXyuOtq4J8vhCKmck34crKaB4z-CtJfsGSni6xjw0Kk6tOrYkjV-fEViVEDXwRPbyb/spc/l3OVKRFqFFLkD16hrmhUT02-ufoFai4b4Db_m6k4dWtRbvs8vteMDbjAFDFVQ6wCnF4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGF8aThfxZYzc0BCgnupjZtCajBg-ZbnMB7uxZdR9arYCIQCAyG3ymyK1PRZXJUGTQiQcmrWTISBDrAtS3Mtqbr1vCQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
