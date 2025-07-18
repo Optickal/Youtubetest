@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752901754/ei/GtR6aNjPFb3GkucP2su0sAk/ip/68.154.116.113/id/df6HnzD3BUs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN5yUuRy1ir9ToSNEEg4xeH9hPLsuuunkvUyjtddoOjwiKGCadGi_I3fSn5JsDFOicVQxN5BTzf/spc/l3OVKbVDkjhvEQsiIp-iod09lLRvBzPTbVDZJSkIcPekxzmguYQx8jyHZCtPXfypato/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALkBUsB80RHlTqDnbQUd7RWAMav2NBY3eAwLHyL96FDVAiBw8LngckXh6Lr0YKqROQ0j_57zl_dWjOR_n42dBUDUOg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sXq5pev.png" tvg-id="", Al Jazeera English
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -275,7 +275,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/hvXCOzD.jpg" tvg-id="", Mathrubhumi News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752901841/ei/cdR6aIDRA6K1kucP2ojDYQ/ip/68.154.116.113/id/82x5KjOVcVo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51526546/txs/51526545%2C51526546%2C51526547%2C51526548/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMRoifK_hLphXK1ojBX21_fv5zBtSlE4RnAPxQBSXE3_g8fmRr69iTvBnc7k3fbWzj-l6zpLefw/spc/l3OVKfUvKIYdO6oEAJiodvxHtjWLSXEfv-7YLWBQFfe-DKQpK_h0hAX_ZzSbJuIXLZ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIMk6V7C6uMHwPFIoSszH-UdO7BZmFWIYqloZqFVeQjCAiBp8PeYn81QPcEDYkxjXuTo8nNcjtMSozyJQ8sU7-hWfg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/lXJJBJY.png" tvg-id="", Jaihind Tv
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
