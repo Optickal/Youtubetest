@@ -212,7 +212,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754407090/ei/UsyRaMr7LNLEsfIPw4jToQI/ip/104.209.12.64/id/o7CdfhBB0OA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO8e_nrPUBr344CQDR0lRv-IAVkQ8Ow6xA6bQkeC797gxs0yoOsM-omyyADsfgl023r-Jv2bbd1/spc/l3OVKZXe4_AyzG7JiM2k_3v9vP1ID7k7g-J8e6xofDehzH-w-F--4mfQvTG_cG4nuW8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALCuSuixhoKMwGdsONTS0hO4fIXEBRORUuHHq-_mTS_aAiBO57FH3fWn3F1PU5fwCskuaimhHbfuZkUdnhGyw2wdIA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OaKB27t.png" tvg-id="", WB Kids
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
