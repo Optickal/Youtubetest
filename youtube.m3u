@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/pMHfT2n.png" tvg-id="", NDTV 24*7
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754732622/ei/7sOWaOyGGfCglu8PvKuZ0QY/ip/135.232.176.163/id/5QCGQIwjPo4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMyDOD7WzL6tyiI8jdDNjOqhHCvS5_I484ASlmEN-WWJuyDuwI1oC7xA6Uti0g5LEV-OJLvG4FO/spc/l3OVKdniyjLZAO6z1qRN48kWk6Iu5rpI4hqTw5nTfvtI7WwUNNeHKHPBVHMT8xMzyto/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaEZG9wQKRcQIIlCEYlxBxF40LFAXajFE4Oe-JDsT7MICIQCqomavkJqHQIMPlUuK-QrCiY0qnfFXqPdGMbJ0H3h_kg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="", Republic World
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
