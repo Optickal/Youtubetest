@@ -41,7 +41,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755310136/ei/2JOfaLTQGfWKlu8PyKSpgAY/ip/64.236.201.20/id/Q8J-4HbMG6I.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPsYRpd2qqCZ63fwV9QOHNkAIfOhEjw_hootX74d__1pzPHEvwNREcQL4qHbzWSHIP7j7pH9qlD/spc/l3OVKTy3yDHSsK9HXDII_jS3z7evF-Q_CJi30lGM4WqTzHdkxHJ5EBcaGEwmA3tnZs8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO2EpCFHgdG2pbi0FuykOIx2yuleezhb3jLBiRnebZlsAiBv4bBFd2HktJR-HGgHs6Moxy_kHP9otLjQsdhgMdzhng%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755310155/ei/65OfaP-0FOWilu8P_aaBmQ0/ip/64.236.201.20/id/mIs7F77OtfU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLP66psemT575GmUFSRur6FywOJI8GYG-xjgpuvnLF-L6LQGaaTYE0HeL6lSTl4pd1OeylsIpJ2a/spc/l3OVKW0QVrykJnOOJCEu8rFiRoGeS_jb5D9s1_S8MT-nO3ufhwMChzflfUa-59_HpkY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgE5KaW0VKnfj57wuSEYRXCsb4GMQ0mG9zbggRaEdEkbMCIQCPQvB9BK0meBorohpk7s6Efun_1PKCYlCn59iI8_Gr6A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
