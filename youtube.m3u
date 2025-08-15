@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3PH7frA.jpg" tvg-id="", WION
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755299280/ei/cGmfaJ7xLdLysfIPora-mQo/ip/52.159.245.147/id/drgyLY-EkyY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPcLB1-sb3ingPDkAE-Zb1O3eM0F_GnJtlMkYpC1o10AhuNXt40zlT637SHZ1vkJ2KhOpv-y9Mx/spc/l3OVKWC4Z9LZQGkLSTzsjOOUdObg2Dx4E2d0yCNmhO7ZbtfIRt1V_HnaZt_I1Yy8Dgc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALMgut1q7lxWxy7MC5IEzt57YKGVgiWk3V4qXaCsVjJTAiAkQUJNRwfXuAqEH0MUHQW9kQrpDx6b0wWXkUN5vWnu5w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/3IjszqF.jpg" tvg-id="", CGTN Europe
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -194,7 +194,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/KQMMRmD.png" tvg-id="", News18 India
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755303251/ei/8nifaOyvOf2X2_gP1pyI8QQ/ip/64.236.134.53/id/LEC5VIqmqAg.2~51435241/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMUZp-0cy3SVz4J4gDPIhW0DoC4U13QzhUsgVKD_Uo_vX6iIvXS9snOWr_YeCR8Qy9EF0vyuASt/spc/l3OVKbqDzYCBp2hrJ9WGf3mOYdVTZ4o8rAsYDDzh1arNAxblN5-cHnK1zQERXNnEthQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANRPSUI4iwgo0jtLobw_kIJrliTHvidKEL2CYU5LHyWKAiEAq4E_imU61r_BnQdOpbbTQzZ8ykFrmaKZjYlyDgprVIs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="", Franceinfo
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -335,7 +335,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Srilanka Tv" tvg-logo="https://i.imgur.com/qGteo9g.jpg" tvg-id="", TV Derana
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755303324/ei/PHmfaP6oI-2b2_gPsfm90QI/ip/64.236.134.53/id/D48hoHqomZk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478321/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLN6AqCVUpouYwe3qpoXktuX-b8g7FsmCoPbn2psj-_QGC25wWaPtlmy7pzwKuKGIn7n7Maffjf2/spc/l3OVKcDtoFSXGy4gdt89qUpX4Zpqn3Mqr5nhS3yVJvZS0HE1K_MlQCHYZ79xkAUvDAE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBMuwRhkjnlYFgTtY8po9C4NgGcRaqc_Mj78kbexd6lsCIQCCuLHPgdjaqEBDoKTmFrOZNTVJeHkJRjsonsLqMYr-Ug%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Srilanka Tv" tvg-logo="https://i.imgur.com/0zQu8CV.png" tvg-id="", TV Rupavahini
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
