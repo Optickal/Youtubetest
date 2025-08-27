@@ -320,7 +320,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/pR6xpNp.png" tvg-id="", ETV Telangana
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756329123/ei/QyCvaJDFB4bdlu8PjbOqIA/ip/172.182.209.50/id/1makz3ICNKE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567916/txs/51567915%2C51567916%2C51567917/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNilWnFnlA4jMFE-CqSY1akFFceGGV1s8IJ1VN6W33ElNwXrWel1agfM3G2wc07cHMDIHhRxtT3/spc/l3OVKcnYp4BXK-tWAo_C3ATZPPkXdX3RlPOjojJdaKu06rfDNeI3zRK5Aq3zzexsVgo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgfhYuQKibr7r9dFN-IsTNbxyNlIoXsJBgYcPqkRCM3vcCIQD7Z2vobcYEDlVIrp6qXHoLKrwO1VN5RCCb3_kn2C2i2Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/oF59Iqw.png" tvg-id="", ETV Andhra Pradesh
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -344,7 +344,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Urudu" tvg-logo="https://i.imgur.com/S7x9XkM.jpg" tvg-id="", BOL News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756332752/ei/cC6vaOWjArSIkucPv7iRiAo/ip/48.214.53.85/id/gSWD3JiAeh0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AY1jyLMbt1D-coQRCUuTNdtmUU5LasIhwptXD9zGAd6yqGffn2NAc5f-kop3VKAyA2c8ay1ytkHMH4Bc/spc/l3OVKfHEUQFePnCpkIVzkWB9a7xsKIkFfyuUC5qzyKo5S0yRbzuZLJGHAfNO28UErY8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL1IMuH5-dnGsOSpViR0uO2Xos9zcO0CqHYfBDswkQoGAiBjvVVnKJ_a0d9nWz2ENvKwyuzVX60WEiZX1tzoh2rYLw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/rJEGwxL.png" tvg-id="", Astro AWANI
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
