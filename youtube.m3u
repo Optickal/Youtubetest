@@ -122,7 +122,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/vMht7AD.png" tvg-id="", CNA
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756515746/ei/QvmxaOnvMsmvlu8PiN6lkAU/ip/64.236.131.212/id/XWq5kBlakcQ.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOLqa53kpTess-TG5m_qkYpgRLm00W-j0h_5OgwB264X_xX2SqgtukatDPO8e0ql8r40s-0-atW/spc/l3OVKSN-xIEIizk4zO93Olc5ijgh2WUnzfNfUo6tB8nGT5LvYn7i1wEaiP98qBfOMP4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPW06YpyA2TyiRfh_oG9llWTswTfvmjRC59UzycrfNO2AiBev1SUGvb7u2lQINzzmI7TXGEGI8QYJq4vOxUR_oxf1w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
