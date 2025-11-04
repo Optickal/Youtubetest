@@ -125,7 +125,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762290618/ei/WhcKaeCnGKrXir4P49WiwQk/ip/52.161.50.33/id/JEtvLd4B-AY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478320/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5T-lFyAU-gZ6voNE91_ViU-6UYqXCqPzL1Jl-GVoO5HcSKzLnumNFZxXFGrDvz7KdreZeCAc7DE/spc/6b0G_HtZiFbykbXfhGVT-Bo0D4s-Cwb1ZwJdj5vpc2xsFWki31ko1DXPIcoGTNOHcI4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMLgbvC0lpSVM66Em2qMJNQcsOlW1jW4B0rCq-4_DgCJAiAooTIxb-CaYyjljwZx181jUpClY7k2LBJQKSnTjIKOKg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/O7h85EX.jpg" tvg-id="", United Nations
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -200,7 +200,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 French
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762294389/ei/FSYKaZWCG9SUsfIP3Yik4AU/ip/52.190.141.35/id/l8PMl7tUDIE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RAXfgqm7wLq7NkBPEzeNDqbA6b0Uycx7gPKuNKNeoWZkeupHjpB9U26h4PqY54QOTs96p1S5Ii/spc/6b0G_F3-sAP6INXQ62X685Jb3prWsh_yI-whaYkKxqgk_-ebo8_I2zGqKt9RKqW_nOk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALjmZ65YF5FmgZqlkOF9tVg8QN74I0Jg-IJRE06KvZQKAiAxMQE85EWRhqi_Jv5wf_NmYAjPlciI__7-Ki2g2egOIw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/Xr3cPT6.png" tvg-id="", africanews (en français)
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -302,7 +302,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762290731/ei/yxcKaY7hL4uG-coPkdnOqQw/ip/52.161.50.33/id/bFj5vQA58kY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539853/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AdEuB5TDVIPyIprEFn__r00imB-uy_mVH73h0gTRaOUr2llgQMmVrDcwD7HdAmKiRpdN_nT4mJ0a-3Ho/spc/6b0G_IJ46ZH_ONomMBf3v9ryED4lHN1ncWgs9a-zEmltX0y_ZZQLdH0DpfFfEw7gkws/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANH9XFa5lgO2L4ITUPlIYzs_gWXxPQ2aRaaVX1ApA3R4AiEAq9uLEz6RgPwG__0SuvPrIP_B_1NiUu3pr8qjkTt7ojk%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762294446/ei/TiYKaamoDeyiy_sPlvbNwQo/ip/52.190.141.35/id/bFj5vQA58kY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539855/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/AdEuB5SS9C32V1OcvM9r7GgdnylZ23fZJDMskS9CqEUJpCSeYnvq4dWyG9fQz7fNBMJs15gUmmAixrP4/spc/6b0G_NB-AcSpkSs0FCRBJWxRi4356Zu2dcJn7slFryldWpQnd8qnVzeQzGbe2ydWUZY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIbioIBY_jcFj7zGUcWf-NVOnfLsCqTxB6CzqAh2M1oVAiEA4UGjCCv_c8ltGSnNDQntd_XGsk7NmAHSS1LfnkZsdI8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
