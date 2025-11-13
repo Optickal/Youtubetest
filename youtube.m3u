@@ -164,10 +164,10 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/bbKSwzq.gif" tvg-id="", MIRROR NOW
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763016161/ei/gCkVaaixOM2Hr9gP0_OJgQE/ip/48.217.140.228/id/zhJXo8vjzwk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51660878/txs/51660875%2C51660876%2C51660877%2C51660878%2C51660879%2C51660880%2C51660881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5RaturNFEmggKCsPakbWaQ68bqAA3LqKEZkuFb1zXLfgFOBfUWTO9x76DXyJv6LrJ7z8LEWJTC-/spc/6b0G_PkB_8nIc7BzgtZOiBkG4s2Fayx3w5kC_cdrY_5W5EwWnK1HA7WR1NUkYucYOEE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgK-ZZC-Sl5ocfpCxZ2bcAqilINsxx282algAXCDCen2YCIQCtDks_HTy7T3ZrxfBVL-RySw5yQ3iXN33KxpFA5zIQ9Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UOtXmnA.png" tvg-id="", NHK WORLD-JAPAN
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763016162/ei/gikVaZirJIuAkucPw7C3iAU/ip/48.217.140.228/id/f0lYkdA-Gtw.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5T2E575I6sP5HgG_vwXouL8Q0F2_ZcIOh62QJW-lrAlZjAi5WuZnj5Iy_2di6JSMV8yOJwaeV1K/spc/6b0G_DoKW76d7aF6FfVrRz0tz77sJ0bQRepjN1qKgtdxC2xlCZpoFtSqlkQxUf53qgU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIrwCwPXpsZ9CiIjYNi1dSSfhhsvEQcCSGb9_tIBBy1MCIQCrQ_zAIkUBIRqsd4kJ3w-U7uqm9xgKyTwMYQlMScq7dg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/5J8K7qd.png" tvg-id="", DD NEWS 24X7
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
