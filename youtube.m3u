@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="", Republic World
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763717787/ei/O94fabbWMsCM2_gPpaTCmAo/ip/64.236.133.195/id/ZapYJUOXt1U.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567916/txs/51567915%2C51567916%2C51567920/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5QTBdMo9h_N7wdElZbP7jO9H9tPj1kT3omnk8s5CnLyhWMstXeGroxrO_wPaq-JBCwWEcEfzEiP/spc/6b0G_Do5cjXF0rv2Q-xkXEuA0yYFF-iHAx1YvXeP13Ko3t4QpSnI804QAbk9tKYAvCY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgL9whQjfGnv-JGWtIEriKPRezNiZIXzVD9cJ_noWvwY8CIG4HFgMKA-aHrWT_eLIQPWLJ4nHG7AuVowm9yGCFz5Ci/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -236,7 +236,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", PJ Masks Official
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763713477/ei/Zc0faeitAqD-2_gPscWGsQs/ip/135.232.232.65/id/QVhJ_0cTRuY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51673643/txs/51673643%2C51673644/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RwawIbO0rIkrWwTq1z7y9XUNLCeDO2NFHcg6WTVGMjds3LNeFWpyltqPCBB_EP1HC75Dli8KDK/spc/6b0G_OpbRCDC1gk_VStjAysu9Z_-vWLgBo8eXRqIwv9kxTHMoep4D9ozBsp4DWGZorE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMVi5sG-KvuqumbfoXBCSKXbM_7TpbMmAtBB8zRBSTUdAiEA0vr7ZKtzfF4jXFoYB005tpk_-YCs2ovjuU9wWlXC9Qo%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OyXFA4n.png" tvg-id="", Peppa Pig Français
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
