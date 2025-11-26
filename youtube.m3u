@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/s3JUNqT.jpg" tvg-id="", LiveNOW from FOX
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764150087/ei/5nYmaYbfOL3Rlu8Ps8fTuA0/ip/64.236.145.65/id/Gqb0LWqNzQo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5RHUQnMXnS8_fc_Hbeldz0LJYcfCNCNTI6cyiig9pkWzURW7vSC9wheKvOH5s5vNZI5ANr-ztiZ/spc/6b0G_F5JH6w6qkIwXEVNdXkndh7mlJOJ8csRF7ma_kFaTvKJjkRKV1EU74Y3CM97n7M/vprv/1/go/1/ns/rsmHy_pkNErJtG6DJfMTt_8Q/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/XNyrI-2etgnhdh5j/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge7lIl4NPHXmh6TBHIeRp3K70_ga8-3Y0iKh9jktTSUoCIDRTn3MsZ7-gvotaDM8NcJZ-ZO6UxqoxEv4vwqH0Hhlj/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
