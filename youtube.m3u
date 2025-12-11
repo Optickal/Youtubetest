@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/5J8K7qd.png" tvg-id="", DD NEWS 24X7
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765484007/ei/h9E6aayaN4fH-coP2KCisAc/ip/172.184.211.242/id/a2jM-6gnUho.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3CGmMZNHtbKn5NfBEwfdH3d4joDzjdLRsK1oQjC1on_mRz29Yn7fuPo8jkssJ5h3T-Rvu4FwXs6/spc/wH4Qq-VPRqbkl_nsMTxRyCHe8Bo7E1mJoFt2LhrCKbonA85kZ6jLcRor_8hrrhcQmqo/vprv/1/go/1/ns/oWuJMd-EYfSdlcty42uSuKYR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/WnsBIR9J0hcHeXE/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZgGb5Y-4nFBmCW1hJkbtmhZas6q3vr2UpZm4TQ1Bo5ICIQCzdp__cikMMwK8ccuuGaTxy5YtQdmbEdPQEZS2JYVKOQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/cIDHsge.jpg" tvg-id="", CNBC Awaaz
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -281,7 +281,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/cFX8iLy.png" tvg-id="", News 18 Keralam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765481553/ei/8cc6aZeaFo6Cir4Pw-aAiA8/ip/135.232.208.149/id/I_q0EeieGAo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3DFIOGTMCnI4Dp6SACtzzV113AyjrGmVr9q_Ae-rp8kRyB95JOwDSNjTov9M4LvHDv7Wjp0pB7G/spc/wH4Qq8PHSU-RvfCYn-GLDaydpYwowMSnJ8mdIhhmzDB3rfCG4BKlw8B1zk2UxaK_9nY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPp82RC0mnjROD_8C7biHl4iSGtJIupJO99lgislP2YCAiEAq94Gl8bpwTl0qpRDHMVhEGeFfiwAemT6727S9T7h0rA%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PDwkeo2.png" tvg-id="", Star Music Live
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
