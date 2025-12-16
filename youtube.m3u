@@ -302,7 +302,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765867630/ei/DqxAabHqAdmwlu8Pv8Pp6AQ/ip/52.159.244.162/id/Dvq1eBRijwU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Bip2GPgKWNdj8i5XH4tzAYIzuu9mf5o4P6FkH-8I8RlO8S1gs2a6RbHHw7Vx5FjnJUU36pTVDz/spc/wH4QqxKUaqHg3q5V5itDu054JccNuPccfxxdwpsXmGJTkDWDIvVAn4Gstw_v-0EMyrQ/vprv/1/go/1/ns/H59VzjZCNTjRuIlGV2TiNcQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/H_a3Dslz3tzcP2rBd/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJB9JcyxH9-PnAaMs_TqjpkPG8gjyMx2e0JfDyvEAszcAiBLkOJr7an5sX9XOmERjHE24wbBZtmMWIhp8X-SReUxoQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
