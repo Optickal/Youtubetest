@@ -41,7 +41,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766016881/ei/EfNCaaThHsPZy_sPyMnKoAg/ip/52.225.25.103/id/zmv2K-RA5TY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3DH1xIm0x6EYOD615TyUCaMzNG48N1fSnlzLrKY_xQJWq97sPv3OYqnBXgpi8XwuYZpY52SrkgI/spc/wH4Qq-ZkOD4Q5tbloJ_nxDMi2TZgN67JBjSNqUTKvCLLqWEoeyv533gIc7BlLF8egLY/vprv/1/go/1/ns/LKpisq8D-A_UYEaSuqlPCbcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/2z49RBxqqSkZZoN/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKAjrsl1aKYsSAeNJa3Qm8vJ6yBYekWpF-gwMcJcAMXwAiAYXJDDqsZUtL9w1z9TfGGv-0cgnyWwMb3VUnhD3x-68Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="", Republic World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766013266/ei/8uRCaYiOHs6Wr9gP262AoAk/ip/145.132.103.181/id/nme7FuxddO4.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3BAO6im2v97P9UgL9iXKrcTnWVrMIncalsUuqlhz7yHz6jNMVBjIkd7cS4HdwpIodnV4FKMcjmx/spc/wH4QqwhY7cThA2YbU6Y2uCvmN1Uk9IqZrEt0rzHwxDTbMZW4iet-xjhZw4Z11QuSK1o/vprv/1/go/1/ns/qyb2pM-JijnYj6d1aqMoBvER/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/tWkrOk1sc6oLSuv/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOjznkFIbZ4QHRzOvTtCorNy2qcBoyJumpQfRLb562xcAiB0197XyE4YrujE8M1CxJEhEvbg4MiBjygymo7TAVvZ3g%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766016929/ei/QfNCaYH9N9WQsfIP7dH22A0/ip/52.225.25.103/id/Ap-UM1O9RBU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3A5GPJ3FDGyZ7sJTWUNFefAcF8gHJuvdoXTMptv4EXiKeoMXT_y14Z2E6CjCCkPuP1nwq7LKSah/spc/wH4Qq8aDQSQ96eqWsiXEQHbeP6mhUB0c0xWSls3jYOJNU60jvHvwXSQT0fpSD5M7BJw/vprv/1/go/1/ns/V9XIVsRv8mBTS5IzsbDAST4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/ALBeB91Ov8ALgrb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM8VdXrbZAm1wXSs1Q3Tcqubw3AFeCwAWIuZPkKaMg0EAiEArVGidsb70Ss9iH5pfzpBt-47cg6Hw_y4e4mKFaj1XE4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
