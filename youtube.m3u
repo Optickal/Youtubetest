@@ -200,7 +200,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 French
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767233506/ei/goNVae_-G93_2_gPxfa0sAg/ip/52.176.35.118/id/l8PMl7tUDIE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BDmMa1m_aN6DhM3qoxN1CqV84dq56c0KpfXfnFyaFmltfFk5ov3d3495QKgLCr-h23hHveg7i6/spc/wH4Qqz90ib8hmd7LmnqktOlAsJByJvu1Y2IurjdLR3uVE5DBMbwVPBELLhmuMVVyZac/vprv/1/go/1/ns/j5mh2EJ4Sz4wMjKYwxj7Af4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/t5R1nfuDtiItFMMxsb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLsP3lprZrnJ05WXJDlT56xwBiezZqWPzH9Q3N5bbSaYCIQC-NWyxGgQTxoPI5tVoHBVN7IziArc69JZSXLnWAb4-Gg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/Xr3cPT6.png" tvg-id="", africanews (en français)
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
