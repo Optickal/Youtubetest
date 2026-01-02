@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767352533/ei/dVRXaaz2M92--coPqamj0AY/ip/64.236.153.148/id/a-1-Zh2RdKA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3DSZ1MynA8RkUTUM0W8S1qmOXLiNAWkCgHZ8o__ynIVhVYFG12HyayWiGFayD0SLhXz4PMcVbLa/spc/wH4QqxV-n7KwcK13Tki4yQz-wdIOeBRibXnnmeJJUW-kVQAQ-LNMjGP9mq7BXPqvs3A/vprv/1/go/1/ns/v5xnQMWmc9wuA1u6Jr-vUxcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/A_c9VCNBvmyE5DOWby/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPhXfL6N7dug-PLfTOCrKa879BoYVCjxi-Q8_QD5qftlAiEAnol32ues8UMi2S0qWiRdydZ0zH5-R8RxyclOC9Cc4A0%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -152,7 +152,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767350033/ei/sEpXafjsOaqV2_gPuYzdUA/ip/52.173.182.170/id/R5gotyO95Ik.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AYUSA3AvkOfVKC6w9aMgSchvlwrvbaoJBpo9OvwaNkwrTBJnX3ypi1Io5r-XpLEPGYlLUFd63syqVYn4/spc/wH4Qq9hJsMZTWRRY1k34xAyeZXpXmCrvJniXG-KxwBFBul25r_ZEXo14F5ClUN0-1rs/vprv/1/go/1/ns/31yakkqXFvuOYjGmDQ7_I44R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514993%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/GGBxOyArrYYdaU_P5v/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMdRiY7ZI6R6miac9l0iEOtZ2cTBbSsjxuKePnCUvGyYCIQDJkWry8QqS7kVpphe45gLm4h-iWsDhkZhMMymqsEcraA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XYPqCwe.png" tvg-id="", africanews
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
