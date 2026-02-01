@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eHxuTsb.png" tvg-id="", TeleSUR English
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769980422/ei/pW1_aaenOfakir4P3P-i6Qk/ip/64.236.177.1/id/3nN3vtMzxTo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AW-iu_qSB9Fjh5AhOIFvMo_8WmP5SWYhkAiB81blBPqHLeb9KYKbgoeA1_-OKkcN7vyx6OpwGQ7yIprV/spc/q5xjPLVOFevBjA0BdJRlCGa01zcsDvQTNwuMVjZKeeZByqMKoKKt7NgA1XdEuMZGgrxhsQ/vprv/1/go/1/ns/Y5n84EmQbAe6NRJ7HZB-Oc8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/t-LF1bwgc4xTmg_/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAKEE6n2WJXlfZXIgpDkovXJzvR6sRbKU-7-xe8NnYkNzAiEA7xsTtqWWUF6mpQKdsBQdZOGSThoZ8zRBemGGH7DznLU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UmeRC9Z.png" tvg-id="", NewsX
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -203,7 +203,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/Xr3cPT6.png" tvg-id="", africanews (en français)
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1769980453/ei/xW1_aZD3AbCw-coPj5CX4Ag/ip/64.236.177.1/id/b6R9-7KZ8YM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rKqdpiTg4aDbvB0JiMvqBcU0yHY6z1HdKtWFuwZFZXwTLmIeZu-gP4N7suXooAEzoR-p_TI6dC/spc/q5xjPPLV5UI376oJH-5gS2s-HNVLMYD_ueU9nuiadUVNNYN4QPdYnqGkmMPxDmrNQm98oA/vprv/1/go/1/ns/zp_gy1u_opnhPRsxpaYhoecS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/SWc0LdFkRqT5YhW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgTBwR_qG5Sb4WIZVpRbcPRaNMwS9tNSYiQXjeWsabZ5UCIF2WzXzRzBLc5JPYORWjy1XS6810lf_Z2VwH-aHUoV0o/file/index.m3u8
 
 #EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/2kfVg4K.jpg" tvg-id="", euronews (en français)
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
