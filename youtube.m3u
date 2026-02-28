@@ -188,7 +188,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/UTkH9uA.jpg" tvg-id="", ABP NEWS
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772316859/ei/WhSjad_JO_Gsir4P9Y_yuAg/ip/68.220.59.242/id/wKlRe2AB7fM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-xtIb34tdbbNGySvMFUISMKBj6Xef_HROr7SKQlsW0_jZEssy8PZFa_2fUWDpC7YR-A6T_jtQ2x/spc/6dlaFDdqBe5UKbI_Zqtze8pAR1DQiknUE3iEHxKto2pQvyBV3fZNKMjrbnl_IE_alEaa4Q/vprv/1/go/1/ns/Ni3o7_NEIPtpr_lpPEkd4SoS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51791333%2C51801809/dover/11/n/ZrxzETccJMUs-7NV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgU0NRiGfMHFQzBjTL5sggW-9tquoh5L1Vbal-ZVwfIdgCIH6dF3ISIDlDSQPYAoQOepWzbiYGYt2POwJU-_hNPrwx/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/q5HR6p1.png" tvg-id="", Zee News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
