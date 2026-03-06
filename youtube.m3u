@@ -140,7 +140,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772849905/ei/kTarafPGCpCtir4P3ea7yQE/ip/52.165.251.242/id/vOTiJkg1voo.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774349/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-yqd85hgSk_i245Pa5uAaNj-rADlj1uKfQprmVAoV6209ShQHfP-RzREqyehNZcEXopPEWJlKEm/spc/6dlaFCTO3a_d-UQmq8HcdX9mUBOBHdvSZwVk4eD0Bn7XLmA3mnQX85_maDTDYP-Ky-cOnA/vprv/1/go/1/ns/Rq7NlpnUR_Yibyfag4JQ68AT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/ANb730hWea1Pr4hP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgcU8sq_P2yFY2JIk3zv9EiKo8OCbnGTJF1SWWLs0m8SQCIQC8x1yNECIznEEcii9sIf-DCzdLf6qIjZQb4NfGFKEb_Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/y5kZk6K.png" tvg-id="", ANews
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -239,7 +239,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OyXFA4n.png" tvg-id="", Peppa Pig Français
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772849971/ei/0zarabbNGsWIir4PhoPssAk/ip/52.165.251.242/id/lvbe_ySSs_0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773373/txs/51773368%2C51773369%2C51773370%2C51773371%2C51773372%2C51773373/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-ySxb3n3-6PTVhsBUxb1fSltrPh510nE53Irrm4nW40MuQ5J7dUNUkVtjH8mRX_G6SQ4lw5GIgH/spc/6dlaFKWaDSOlJSXzLIEJayX7g--I_K0PvwdpxZGIuqN0p6Ely0mZWdxSYINRGBTkbbw4bA/vprv/1/go/1/ns/DHHBplB2JCAquFENy7hi-SMT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/JdX3FTREytPo7cu8N/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAIXzmeRxRHYX3Y53nWzuFc3oPeyJqb3ntuCQWdZ19UpPAiEA1Rtc-1SAMGjp8K6SJzWwSRMv2dZJSpZS4Z7MctFKVos%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", Pyjamasques Français
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
