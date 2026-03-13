@@ -218,7 +218,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/vHpmWzh.png" tvg-id="", DC Kids
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773451455/ei/X2S0afjyBsOlir4P64CbmA8/ip/130.131.195.132/id/Lb4VCTIooWo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51757983/txs/51757982%2C51757983%2C51757984%2C51757985/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-webEOErHkUpYeM45smMHTpdIM2NLm2622fH4fN1Jb2TRJ2Vl7JAvXCDMwRuHEDu8VO3cNaAxw-/spc/6dlaFOZz5Mf7Yce2xssKYx1uIQ_SJLU2kCSPXaGEIf7ZYTMZ1ic0g5IuyYqPUOxaP0rKCw/vprv/1/go/1/ns/yXAa5lEG3V7G43NVPAo5w2cT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/JO5CqayP-U_m6FjFPlL/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgUOV8nXGuhKYmdavWnMQfSAJoCJOIML34DZwAe6QzmKQCIA7w0oauvKzvPe2KwASVJ7oMspbAlBZgflXj2CQS6Rnn/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/2gDS3av.jpg" tvg-id="", DC Kids Français
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
