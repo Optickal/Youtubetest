@@ -296,7 +296,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773701432/ei/2DS4aZ7tL6K0ir4PwbrzoAo/ip/132.196.19.23/id/YbQwgoMoztA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794309/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-wTE1vEZMdOsZTR9jixDdqstGUm5bGhihQlA9-6SCIZyBWfFtHphdbZ_qVsFtcbVZbJhbEQoxEz/spc/6dlaFJTOGyjqLZEtn31YDtR2_Shpj9vojWjBNpVtfOg0KI3xy3R4fAZGWuwBXNTnYuZpAg/vprv/1/go/1/ns/f44fiPfBr177x-xw3ca5odcT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/70PX71ixYAnzECE1Cp-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJ4mFOAjCy2DBu8T9QC5MkRvxkSr-d9lRqF7BCE2jqcmAiAwTgsjzOUKI42H8akjlpQhOB6G9JvdAMGtOw0hbBytNw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
