@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", PuthiyaThalaimurai
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773730729/ei/Sae4aa7jMr2tir4PmP-14AY/ip/172.208.153.225/id/rkvMvpFz7nw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794320/txs/51794319%2C51794320%2C51794321/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wh6ADKUK6LUodyYV3ZlVnxOwgTs_r_gldMjgw5UJgxTJwDUWUL4HSCeJ2fdeFNQIEH2MTggPr0/spc/6dlaFM0XV60KQF5ditU8yRL5JljBnOnjkva3nwhzhT0eMH3CmuNkFPzB4UH_fQUApuQTVw/vprv/1/go/1/ns/_XFg_id_LMgyGCyL_ZnYjgQT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/9zsHXE7OWQDjwjCD/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAIZnyu24BBdcBoQL0DXkCEtCbtU2vBW6eFDc_kaiZwgIAiAwU6SWnGLGYnioCgwHhtefRnfApBGBPx0_8B2ytzetjQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -119,7 +119,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sXq5pev.png" tvg-id="", Al Jazeera English
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773730785/ei/gae4aY6lKJXpybgP362TgA4/ip/172.208.153.225/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AVNa5-zrcnf-B-flkTSPVqlc9BxOJq6gcQ7xoOFJwdiUs-sCCbgnqGxYJa5f2FONj7HZor-z9kvUvhqQ/spc/6dlaFEGBdBQF8X4UkvqYWaRccQjpOT8QM6NCuGZay1jM11EcPiq_P0VYsAlfZf8K7-ORJw/vprv/1/go/1/ns/dw-KHgjrh9Ajx1JdzYP_Qh0T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/e47DUCQ5L_hgRIgq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgfbR95CgsTiz9PpyyduOSiGGeTREHGwjM4136Rk2HWmECIQD_yT6iddo_n9UGOkIbSFMuTcseSlUkcL-XaQNzp52pkA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/vMht7AD.png" tvg-id="", CNA
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -275,7 +275,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/hvXCOzD.jpg" tvg-id="", Mathrubhumi News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773730902/ei/9qe4af_3LrHpir4PmOe0uQY/ip/172.208.153.225/id/YGEgelAiUf0.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794323/txs/51794322%2C51794323%2C51794324/hfr/1/maudio/1/bui/AVNa5-xVUJI4RLvRVeHGkrKlZS-_vgl5X9F1sr-y-ViU64rZf96jC5hsZgXR1T8Ihm-BMJI4IbKASjZO/spc/6dlaFLH_H4Pbau8DfS9vEbUZh0xWalVhtwBJtDl7CuVA0LN3CR3kIfqnWdBIzAiUMAsDVg/vprv/1/go/1/ns/kDw5jmLFz81-g-bcJYndOm0T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/OBUwKsG1n6wM2SDGLDI/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIga-3HrGPGQB4YFIii4WHgoy9TAzm7Y_dt4StFMGavj-cCIQDZI-UnKJ7PcGHwpsEGB2Z7F0muHsdYCjCfSFVt722Ziw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/lXJJBJY.png" tvg-id="", Jaihind Tv
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
