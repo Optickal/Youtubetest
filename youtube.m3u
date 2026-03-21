@@ -41,7 +41,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774138683/ei/2-C-aYHvIfWVsfIP5OPE6Ak/ip/4.154.22.2/id/j7D7DaIicU0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-zUo4xCXV37V4XkkuCkLVe7RYh0-8LqeztYlWj514PrTVsC42gLK5F2U3BD8tzswL9LqgLLZIo5/spc/6dlaFIDIF1Bf3uwrs7vSu4slhjzg5TWCchRIDnWszOPGQ1-SyiVmOgcohXHr_DIWwu5A1A/vprv/1/go/1/ns/BupS8UwNrzMtF43YtvhFpwIT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/6NxJ6urVXltz2heX/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgZBwv_2BYHcx6446a-odMA5lj3XBFoZ3rnl9FgraY3t0CIQDIAcsWc2oTF6jITX1fyucsfKHESzieqbweFIw1BpnJBw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -188,7 +188,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/UTkH9uA.jpg" tvg-id="", ABP NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774134990/ei/btK-acKSA7rOkucPz-O0qA0/ip/172.174.165.3/id/hMJRqcdtMpE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-x6ZwPUJiMEBUmMymbPLpBEO2WLk72X-_ADQd6_hR_CEmmTa8zYr-S3hKXkm11ETDYbA51SDxhj/spc/6dlaFLg0zzAwrj-uPXBtREBGvBPLOEiyBoHPi64YyaNmemXjZfDIBRWYdQiwM-DChLooMw/vprv/1/go/1/ns/kkBb6PRNvMY_IVc9szGv_8kT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51791334/dover/11/n/7oMA0dxnP5LtfUdU/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAJ7QRH39heK0WTVQiXnG882EoEvIcYUmtrhMb0txxdSMAiEA7eEjm0JoPdLr-aKymY1klD46FKkOC1RVbUTWdVAMIKY%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/q5HR6p1.png" tvg-id="", Zee News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
