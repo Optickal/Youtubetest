@@ -152,7 +152,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774791816/ei/KNjIaeXkGd6EkucPg5by2A8/ip/9.234.151.16/id/WN3hHtDitN4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811605/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AUUZDGLSnFU5fVVMvm6BcdCUolMrfdAHZeyHNolOi3erakCynprOnNqLcbNqYXr74rLsV4pe_uKMa0yJ/spc/jlWavRPthoHqq0sxx2LZk5kC11bBMp46mgG-XU55EsvXTBKSESR2HKd-5R9-xIVg3jaqRw/vprv/1/go/1/ns/cynCGrwRcW5Gn7SCYvHFqC4T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/Arnb8HolPkK7i5kI-z/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgJPAZJ945a50mGSp24jEv9Lb3rmGzasExqf_19BKmKmQCIGl5J7GQN-vn5WlMqC2-1Xp3OBs-9XdQhTHRoOw6yKTo/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XYPqCwe.png" tvg-id="", africanews
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -212,7 +212,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774791865/ei/WdjIabrMEoGLkucPkfz0gQQ/ip/9.234.151.16/id/gLddCnGpjEw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AUUZDGKpTyMKTvfrfZ2__hKF-9UG5cBr9xmiiAjnBGcfHUlTHfBCi_L_R_1FCdpkvjoufEgVsZy7cye2/spc/jlWavY8H6WoSifBLHlCSFnp-cj2F5crfqFuEcOXLj9J-RX1k8WuujYcWqxDwsNdZg7Wgaw/vprv/1/go/1/ns/W950wYXorRsJ1ehuaG-7DdMT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/oFZmjozAJJnbTOkG6Y/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANh81QqmjTOxOOx5Q8zXm8BNrfH0yQK0kvhAedBBYSuDAiEA_CNxJlWrNqcND5rCpgeLhzRDrX4WChMqkj2OT60BchY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OaKB27t.png" tvg-id="", WB Kids
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
