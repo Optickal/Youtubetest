@@ -179,7 +179,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/xWg3Tfn.png" tvg-id="", IndiaTV
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775334256/ei/EB_Rafr7EZDpybgPr82KEA/ip/172.183.91.33/id/8uxx1N8BjkE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51819632/txs/51819628%2C51819629%2C51819630%2C51819631%2C51819632/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGI1u6-XVRrogqVKB2D0z95c4gvnRBYw0l8NfvZfILngo3KtYpuw3Hlz5ZE2XE9f1cI6LOBUpPj_/spc/jlWavfr40OhFUeInM5pVLlYh9anmm3UdreNCAc3cFmNqC6bliZq_t0yWlU7pAnmEmq9-ZA/vprv/1/go/1/ns/miP-howPoASiBmyfz98ZXeAU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/wd2T80OYQuHSmRY5kQZF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKwJOH4aOnCSD-8avQdH9x5N8rTYqQ9zm1oKiCtUeP_WAiEA5CHCrOzwt5wnz0pf-zkiBqikxBP-DJF8XJOdqFFR-Eo%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/VwzlPXa.jpg" tvg-id="", Republic Bharat
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
