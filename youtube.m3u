@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775643873/ei/gdjVaeOrIvjiir4PzKn5oA4/ip/172.184.134.209/id/Xvv6XPq_Nog.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLQ0bJwoIrg_eOVfcDB5EXLYskLP5W3W0UbWqrNxyN-461rWF_o5DTq7UgA4Uz1zQII_cDgVLDl/spc/jlWavVZjLbB7OFBJN0dJfzq-s9l0H3zffKvTFxADmEZUq0issUVvnJivPvFhpYPcLTnyEw/vprv/1/go/1/ns/m5Z5ZqKMO5dbVvnlJWXKRm0U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51869321/dover/11/n/af39WeW8HkWIR1qS/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgOBCenf6LjjOqiSrmhU54BpT1JHHfzVG2OuSghO-1nusCIQC4ZFdOC39zTSfz1MczZgPsWt00LL9S00mFvIHs8ZndUg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
