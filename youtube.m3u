@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776150877/ei/_ZTdad2TLYqClu8P54f1wAw/ip/52.173.162.98/id/1VUhRQpz_9o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774352/txs/51774349%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGKvPWjYe6ZwB8_sMCT81olA86r1cpEFeznoVsODdSsRucRQo_pXwt_j0NkrNRD4B_WXvsq0SsWR/spc/jlWavYBCqXWkiLkCU4EhMp65wIWKLQy5puf4KQRbgv7fdIR7QcnKw8qEgyyyQxlDHr0fNA/vprv/1/go/1/ns/GtgoFORj1XaTl2GiGNQ5u9kU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51869321/dover/11/n/dW1tgxO5Wi4r68NI3eVp/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgLDvokV7_4G_2Cvm7W5-CketSp3TxFRzl2XKYcYueODQCIB5ATvjtFxP7Q2v6NjwrRlcJeHyLgd5uPwcVsDL-vDN7/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sXq5pev.png" tvg-id="", Al Jazeera English
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
