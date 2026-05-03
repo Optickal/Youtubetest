@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/1TvFl8x.jpg" tvg-id="", Britain Tamil Bhakthi
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777807074/ei/gdr2aYmOO-Oylu8P9Yv_uAw/ip/172.215.209.178/id/6w1sAJgpbNg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwp8jzSsr47NYh6ZASqCfmIY4TF60cIoSYG-jRkeN0cWd8RpBFqqrU15q1RrMqPW2Qo8x5WEY2VY/spc/96Xrv2riAOr7qLbSvpxigm5kyRS_QsawpccE2RmkYmN6789X20aUK-0_g9wYcb_ewkmaGA/vprv/1/go/1/ns/o77NiDYJQ8AX3pw1pEo2ZEUU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/zzFGgyiD7Y0JWyNV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJQeEl9JWO_G7LmrTXD8OLgZ9XyNragHdXnt8yR8jP-eAiBoCJ3LY9cNzD6P2zbQN8ydmKsSMIX0s7Erqt0hHDkMsw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/pMHfT2n.png" tvg-id="", NDTV 24*7
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777807092/ei/k9r2advwO5CHlu8Pz_zU4Aw/ip/172.215.209.178/id/iipR5yUp36o.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AbKmrwof4u4C9XXWFOAxTumP2i8ZdpnCqUXtgBUjxH3f-KHA2W65Bx-U7KgHmcasJMFDQx_2TirS3xO5/spc/96Xrv8kYYLUtoDv91e8CVc-hLdVRJ9whUfvXWb-d_UwSKuLJfD53lpko_i2p_h6LjfXi0g/vprv/1/go/1/ns/eWPq3Jmg8UarS8utzGvwNmUU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/dX45Ithrjq4mDlyq/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAM8Tm0okchfs1PSvBrFm6fmo9ytRpa5FwB7iegSeg9qVAiA-tTLiQtbaz29wv_ps9kDhrA3vDSdH7_EAmLkC_wzTiA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
