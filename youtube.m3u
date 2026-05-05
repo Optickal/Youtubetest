@@ -185,7 +185,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/pO4rzt2.jpg" tvg-id="", NDTV India
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777978307/ei/Y3f5aefZCt-Jlu8P5ZSO2AQ/ip/52.173.181.18/id/xhgGZNF3qeo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774352/txs/51774349%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwr0XFNr1RxFd0Ya2D7P9-eAUzvX4kQ6WgnbT1DZcNq3qkqm33eRpYJTHwOSc0hzWL7JSmZ0uYB5/spc/96XrvwxAK7qnj1aY7Y6YhxY844OyQD2d2fB7V3G-I5U1L3VFUvt_TBLK9dwKv9uDY-CCOg/vprv/1/go/1/ns/O2CI6Ukt1DGHt4sJGZKk5UsU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51887890/dover/11/n/U8Stm-iKZv_G0AZH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgGfwm4JmRFGoI8g9cpp-90B8HGsexf2uu3HH75TURHDYCIAOS2_yVEBORDypMboTWVueCV3IhE4l-WVGoWxG2zjRn/file/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/UTkH9uA.jpg" tvg-id="", ABP NEWS
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
