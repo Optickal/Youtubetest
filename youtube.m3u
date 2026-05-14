@@ -41,7 +41,7 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778778337/ei/gawFaqzRIrK-sfIP35rriQ0/ip/20.57.206.154/id/aM-dR2S_PNI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwqabpFQ-2WsEwiYdMb4whoI1D9TELnt6TJERyUEZVyCk-OodvgIT8IeYUBDn8E28P7zVDrGwCKU/spc/96Xrv0BjrWO4AyZo-uWG8P_jS5POVCE2zAd_rj1fUA_mHP1u3J5E2Qr-lb1G8HT0hNzQoA/vprv/1/go/1/ns/5_McssgwIGSxsy_xLjGyex8V/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/_iRvQqq5-5Jbq3id/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgTK9a5m-9ZOwj-bOkHVpIgkcluVLTabg7Zc88DicuA6gCIGHeCL3qr55UW-jLX-3jPfkZRtxmEaKS3PNoPLLJQ-tY/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
