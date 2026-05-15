@@ -134,7 +134,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8wwqVHU.jpg" tvg-id="", GBNews
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778906507/ei/K6EHau_uL9-a2_gP9tKF2AQ/ip/172.182.226.67/id/ploO6HFYT_o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828963/txs/51828962%2C51828963%2C51828964/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwoA57eUcTrCU_zHmPpfvd0Iy9dGAD-Q5Z8w9OSzRBaUBILAufxVBZzgdu0XvIGpvXztC0ygrzkF/spc/96XrvyvxchLjWPfBANsIwoyAdFQywGFKx6z8GuXy_FnJg7GPfLxxVp6YmlgFEi1jc_Sl0A/vprv/1/go/1/ns/ujb0l18rIPMO-mDUvbptkwMV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/Pc7EsW0e5_r3LC/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAKuyHaBXGd0ZmZrOSZBKVhgLX8AL-yuTAJEJ7x74Npy2AiEA6nxoY5gxiC1CQqJS0CumsRpR39vYone0qVEfXS-rNMI%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/s3JUNqT.jpg" tvg-id="", LiveNOW from FOX
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
