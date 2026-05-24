@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XZKXViS.png" tvg-id="", Republic World
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779631879/ei/p7ISarb3MNicir4PjKjziAw/ip/20.98.23.169/id/8ND3fzp0CIY.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwrJVG7uTFN-jY98JCGMq7DgKqGMhn8NzolUSThQ4ZGbFsEu4G1PVmWPnkV8xTm8tex4TgFv6RfZ/spc/96Xrv7XNgo6-sIYRuEpAZ4izoJeivfNNNh_WrUq3QdXw9VZTNEzgj5cRkfJrjnZMBIlIGw/vprv/1/go/1/ns/Auuk4hv9c1u8BUA_v4xrrWQV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/QWKoBU1iz0QZspaeMUx/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgdK9PUm_w_wP02QDJnDXRjux0UrOPvLgZEFjYAT_GnC0CIA2rtUXRBVzpefZ6Uq6GHwZ1vUW1oBPHu6gd5ebTNX_Z/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mO7gA6S.png" tvg-id="", DW News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -149,7 +149,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/KKoPfER.gif" tvg-id="", Newsmax TV
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779631913/ei/ybISaozGErGOlu8P_6quyQo/ip/20.98.23.169/id/oPtapPqfO_0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwqaZxisZnisob5-mjNs_QGG00YAglgUNHfp6hy7zJwQfhTU9biGQnLbDO6cUm_XutbqRbgVJZsc/spc/96XrvyKDpswvF_3EXUMObnbW53mywYzM8DOKUyeGf6YQIpUhft6WqQBwD_CjOe8VllKnuQ/vprv/1/go/1/ns/rqIfRX1Jc5A2Nh0xWgOWxH4V/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/OasUjY8Uv--x811WpFW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAI1rRSqWUMJo98_nqvO60rc2Kj04LZN1ZpBszbAspTUiAiEArehqxTZFcjhMyWVjzoMU8Lh6Q9GVoc4fLGmAUPOlEaE%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
