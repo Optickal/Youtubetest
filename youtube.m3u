@@ -164,7 +164,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/bbKSwzq.gif" tvg-id="", MIRROR NOW
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1780079899/ei/u4gZaumpL9DFkucP5-7r8Ak/ip/20.161.47.114/id/f_2L3rKAyzA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwroL5OKK9kajMh3BaQxXksG0njpWanaPorL7VN_Scl_7-dMw87EVZ3fyTU7ndx91PDZvdpwiWT0/spc/96Xrv2NWep_l2fyNV4-YNoQy7OhjcxwsGFLuqKcTAf-nxvvGM9GxXJFYq2w3v2O08KQ4jQ/vprv/1/go/1/ns/ajYK0AxFx_xFmXuFoEM59OEV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/P616f6YLvFreQZ8TJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALUlMEbevJtVae1JCIpls1gC3OSt_wHRB5BQs1sQsCNUAiEA7XZBFVPCaCtJ1bngCyQ1LMurMmEygof288bjM0oChWk%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/UOtXmnA.png" tvg-id="", NHK WORLD-JAPAN
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -350,7 +350,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/qSQYlgl.jpg" tvg-id="", BERNAMA TV
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1780094076/ei/HMAZavGWEdzLkucPusyAgAQ/ip/20.109.38.248/id/6CIvBrvBHNU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828968/txs/51828967%2C51828968/hfr/1/maudio/1/bui/AbKmrwpEzbkenLR2ru3ScQ3oMSShFyKAQwEpyww90-KdSHzTW-aNighS7se2YABtUUeprxCE1au7_qxc/spc/96Xrv8JTwJstFd9mFa8gzyBFQQ59FORg8i9iQoYzcYpvvlBFvCAGiQ0awePk6EbkwDStyA/vprv/1/go/1/ns/OtbAEQB2WRw0SvggmZPkSpUV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51946837%2C51958249/dover/11/n/X2Zv_-tV9H7VMxZYJC/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAJQo1CQVTItPAeltz2Ipuond7XRrgj9NtJwoprBaIHBXAiEApXlXjCxfrzewySJZUCZJgGbL05nbY8gNJ_-v2Hk00Ds%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/VzUllfL.png" tvg-id="", Saluran Berita RTM
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
