@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1780537070/ei/joIgarTjMcm-kucPi5ybmAU/ip/172.203.196.179/id/j4JeAgr_EM8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwovPWJfHGkZccuEXcLYJFm8stvE57vxNLb9JeDdika-3oXw7PeAwwDGjvX9eDXuCA9G-Vjwyyov/spc/96Xrv-9hlaF1YVF1v8EfkvTBu3XLzzkJxNipCXa94oPXWovX4XwQP258ZZl08k9LwIPGMg/vprv/1/go/1/ns/D6z27AyVPP0wPKWrNiCNYJgV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/olNsbP3fdr8J_H4aVma/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAIhCSjq8EMzkYGPT_VeJ1S00_bXuLe7aQiNpNFbU73yvAiBF-a1lD9Y3u004xbRM9aZV13XRGHpUok5JmTkTOHUHcg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", PuthiyaThalaimurai
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
