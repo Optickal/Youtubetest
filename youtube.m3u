@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781759538/ei/0ikzapi3D5__2_gPvcWboAI/ip/52.240.176.163/id/2rlzxOlE_uM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEURIf4zvxCYQ0-OboTv3rOUlh38cROZAZxR5LY4YjDQRkCZcsuzipmTZd2-NxOUS-ipkLFLoYZh/spc/SQ-umsy6RYQYIvxVj4tFepTBDYeFuzFu_ODSbqmxxopmovk3czY5yardsmlp-LQPjdwgWA/vprv/1/go/1/ns/J7EdISaFfk8pNOES9wgyiU8W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51946837%2C51987686/dover/11/n/we1MkSOTWOtske83p/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgUiBTINsIJ3uq1f3D7fMUM-zfiQKcpaARKD9JrR0KTE0CIQDQfipso7f0vCMTyvgZfYnd4iKHkWVErjzjIUHO_wrrnQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -341,7 +341,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Urudu" tvg-logo="https://i.imgur.com/MDugEgP.jpg" tvg-id="", HUM News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781759725/ei/jSozau6cIbWflu8PodKc8Ag/ip/52.240.176.163/id/cleNtpjod6Q.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/ARmQxEVTea5TevNZ_JfrePAgCMvXXYOF1rWMmzO-FGGgD2qv9DWuN2IY1D0tsSPxEoZKQFq1JWnb7b8W/spc/SQ-umj9e7agMO4mXwi1uRM4ZZc4jdO7X8OFM-zYg0SFFN4gDrQiMBIuEejVq8B4rT1htWw/vprv/1/go/1/ns/v0x2f4swyRHliGaze0YFY-8W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987686/dover/11/n/t34EnBt-q_6E2gOKW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgSb4azn5FjExJHr_j00pIwkTm1R5XJ_4CXlThlv_5xegCIQDNdsJLegM0IiP6TiBwI1yAjV8RF9nodWaavDpv1TzORg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Urudu" tvg-logo="https://i.imgur.com/S7x9XkM.jpg" tvg-id="", BOL News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
