@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782108063/ei/P3s4at7uNLz62_gP87KnsAQ/ip/172.208.158.211/id/iipR5yUp36o.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/ARmQxEXv14tAjNczQgXsKCCjuYLaQWtKUzTOsMkvHzjUgUP-wxMiNnQJS0cDOTYmXC3Y6Wit-FwJS0NV/spc/SQ-umnFa-1N0iYrArD8KTqNd3wd4jUZoG7EFRxdVRTpk8SDLrTm-T4XJ4aZC0jpRGgbvhA/vprv/1/go/1/ns/dZlPqfPtxiCuG-TkUAOLWKUW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/PLg_jRGF7bXlbKV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgT36J39mbkZcFwFN94znXSPLGiiANmZMcK46u378lc8MCIQCcBoEwWQtCK_TeaR13xkjb77fHQ3v8Z67mnFlE0ZNLtg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/tAvZMwz.png" tvg-id="", TRT World
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/O7h85EX.jpg" tvg-id="", United Nations
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782123463/ei/Z7c4aqkgkoeW7w_I8K3ZBg/ip/172.183.157.181/id/vYRfQo6JMxc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEXCPfRxkqJei9Dn8wuyF99kgdykujbllGmlsC0FY85ue9kJM5fVKAeWBnQozPrpTj975lUZlFGM/spc/SQ-umgrnlnOLbzinVTZ7fFsfpAzQkN7VfWCgWlH91gz_1TyY1a647jpc9g8oGcppxy5kVQ/vprv/1/go/1/ns/-Dey62TRVRnsPAEnxWE3ixUW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51987687/dover/11/n/wAJ6KYBK_17LZVn/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgKnRJM3AQbUeKuiJnRACltz2l3N1E4y0eY_T2kyp7S4ICIH8yG4aD-Mbn3YEnL5A3jiB4QqfbI87O8je0GD-vqwql/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/cEiNnvA.jpg" tvg-id="", Channels Television
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
