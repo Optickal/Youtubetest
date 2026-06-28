@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 English
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782687238/ei/plFBaqvZKKu0kucP_eSxqA0/ip/135.119.237.65/id/HvZt-nh9sGg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEVv9VevD2H1U4au4u3zcahVxOXc597d4EkwEW8jIUoRBIspZd4W0cgUJMKGcYuh9WJHF2gyGbZU/spc/SQ-umvQhU9wML39BE8sFWrJdeSyGzUgjKy4riZsSn15e1nWAX2db2_vW98lF8yO6OwSH2A/vprv/1/go/1/ns/wn0FLkOEwGo6wyovMUW3xk8W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/tru1MVxALHo2E_b4E/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgTjFHJRlTrYkAfpxV92r53bWD1UbrnsZfhcan-kKOZDsCIDvQLSO6F_OSXFcRETkhnc7CHKNx2LxzX89GqVBn0L_a/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/sxEPMKY.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
@@ -209,7 +209,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782687327/ei/_1FBauP9G8OnkucP6JOqgQ0/ip/135.119.237.65/id/YY8yc2ctN0g.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEUi0oHwcBXZyOMQL3oQ0FnVeK2kppJel_GFX7lHSorYGvFrTV_dKifanBfGbQmNT6wlxXrSeAWn/spc/SQ-umneVxJbQ0BMrCzVDfw4Ab8OEQtNGUoj-YK55rqBvliJfCmtWEXcUk8KlXFwXV1jYLw/vprv/1/go/1/ns/pG5dGYhViJAGU345jamDNAUW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/J1TqZCwZvzos0ZWMX/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgTVp5zH0kO9cBOJbIQLyrxwmmLZ-9cgV0bD9R6qodoKECIQDUNosLcociJVGKadtQnef3AwMLNjNv-e0Y0rL1UgStDw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
