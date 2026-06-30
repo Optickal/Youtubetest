@@ -269,7 +269,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782863208/ei/CAFEarqMFaKBkucPqYSskQ8/ip/52.150.30.133/id/-8d8-c0yvyU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEX-J_GUMzPL2NYszGyRkGzIY8JGTTiYTZ4gQxxYVk0AIv6av3qndnJ5GTk2qg-8rAHJZfGXdek7/spc/SQ-umlnmIIz4-dbk7KsW8w_Tdlr8oV6gg93EvspMInZk14Fg4Az9Yl7rWIg/vprv/1/go/1/ns/bj7S1HGaIkvPBrR3IWADszIW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/n/QVd9V5Vk1-o2aOC5gS/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAIRwwWJld0YPTH3Azz5bjvqylKXOV3NarOee6QVY45dnAiEAw4BCmLW1NzV6dl5T84JkipH5Fk7ELtJum6ct9eEcMNU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/T5Iu7eH.jpg" tvg-id="", 24 News
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
