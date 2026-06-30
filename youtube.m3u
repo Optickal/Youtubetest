@@ -326,7 +326,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/aV9C1mC.png" tvg-id="", TV9 Telugu
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782876203/ei/yzNEatSREc-DkucPzq7S-Ag/ip/40.76.119.209/id/II_m28Bm-iM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUC-8ikoszuExIa1nbBuzToTL0HfeKIdEb2uVHpTQGiHToDmTueqXqopwdrA8rXt5LAkGUlMITc/spc/SQ-umhrnsJKvfLYSNcf3jP0Dx7XcVaFD51vY6y-ushRznbVcIouOrugYlVwPqiDst9QhcQ/vprv/1/go/1/ns/JCJadeeizUJsc6f3EoHIGG4W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017146/dover/11/n/QmcIth5Rbg3L4MH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgFSz_eKtoSdni8Fgw-A3TAaXORONLhzsPzhQthpPe5iECIEW1KvXncB4Q6VOKTnr_dG0MMHYl-78PFl0FLhKicCtn/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/UelYpx9.png" tvg-id="", NTV Telugu
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
