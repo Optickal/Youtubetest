@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/1TvFl8x.jpg" tvg-id="", Britain Tamil Bhakthi
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1794367788/ei/zIzzat6cNqCBkucP0_2DgQ4/ip/20.97.191.165/id/3o2uGlb71Gc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AZFAFb_QeF8d1yfsT4IhcizqQucUZrLjkJKdrM2jzGQK5jQW6Xb14T-vDHgu1L005tQxeMa2vdzNqnGs/spc/mpRQ_1qyfFHt2HacXyLw6YMXdppFkPVUW0L3a98BCqplQw02_RUqZNnh-jIwcVc9UsVPnvE/vprv/1/go/1/ns/PUnuTz4pfunPG33t2bntRN0Z/rqh/5/reg/0/pacing/0/epbp/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52250119%2C52323638%2C52338434/dover/11/n/OevRUzI9TQeQp4Pcby/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgEgl3o8xTeLLztlMsrPQv-emzCfHLy3vqQf-Ka-6TY4ECIE4EeDDi25Dx-BkGdj2q_fz0jIAweHawq77ud2TDlj1K/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/pMHfT2n.png" tvg-id="", NDTV 24*7
 https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
